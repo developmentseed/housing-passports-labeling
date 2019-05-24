@@ -3,7 +3,7 @@ title: Concrete
 date: 2012-08-23
 layout: post.html
 ---
-
+When the building is constructed with concrete material.
 ### Examples:
 ![image](https://user-images.githubusercontent.com/19536044/58281502-f0b56000-7d68-11e9-8496-5b6781c1539d.png)
 

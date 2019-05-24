@@ -3,7 +3,7 @@ title: Painted
 date: 2012-08-23
 layout: post.html
 ---
-
+When the building is painted and is difficult to recognize the building material.
 ### Examples:
 ![image](https://user-images.githubusercontent.com/19536044/58281106-eba3e100-7d67-11e9-80e0-b68a98f94618.png)
 

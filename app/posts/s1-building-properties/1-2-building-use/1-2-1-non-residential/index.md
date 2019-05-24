@@ -3,7 +3,7 @@ title: Non residential
 date: 2012-08-23
 layout: post.html
 ---
-
+When the building is used for commercial or public purposes. The building can be a government facility, school, hospital, or store.
 ### Examples:
 ![image](https://user-images.githubusercontent.com/19536044/58286156-bac9a900-7d73-11e9-9a64-341ce0045dad.png)
 
