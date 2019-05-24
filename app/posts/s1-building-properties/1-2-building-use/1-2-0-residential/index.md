@@ -3,7 +3,7 @@ title: Residential
 date: 2012-08-23
 layout: post.html
 ---
-
+When the building is used only for residential use.
 ### Examples:
 ![image](https://user-images.githubusercontent.com/19536044/58286331-227ff400-7d74-11e9-8351-7a50dd072f37.png)
 

@@ -3,7 +3,7 @@ title: Garage
 date: 2012-09-28
 layout: post.html
 ---
-
+Large opening on first floor of building (bigger than a standard-size door). These might be used for cars but they could also be openings into a mini-market or other large entry-way.
 ### Examples:
 ![image](https://user-images.githubusercontent.com/19536044/58283100-21979400-7d6d-11e9-891c-7a26f9eff5d1.png)
 
