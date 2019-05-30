@@ -4,7 +4,8 @@ module.exports = {
   description: 'Guidelines for labeling street view images',
   sectionsMeta: {
     's0-introduction': 'Introduction',
-    's1-building-properties': 'Building properties clasification'
+    's1-building-properties': 'Building properties clasification',
+    's2-building-overview': 'Building overview'    
   },
   attribution: {
     name: 'World Bank Group',
