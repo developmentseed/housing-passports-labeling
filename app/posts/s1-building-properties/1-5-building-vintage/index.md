@@ -5,8 +5,9 @@ layout: post.html
 ---
 
 The building vintage is classified according to the year that it was constructed:
-- Age 1
-- Age 2
-- Age 3
-- Age 4
+- pre - 1940
+- 1940 - 1974
+- 1975 - 1999
+- 2000 - now
+
 
