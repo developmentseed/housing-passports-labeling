@@ -9,7 +9,7 @@ module.exports = {
   },
   attribution: {
     name: 'World Bank Group',
-    role: 'In partnership with',
+    role: 'In support of',
     logo: 'wbg-logo-hor-col-grad.png',
     url: 'https://worldbank.org'
   }
