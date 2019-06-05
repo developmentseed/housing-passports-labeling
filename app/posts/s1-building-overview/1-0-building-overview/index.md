@@ -5,10 +5,10 @@ layout: post.html
 ---
 ## Building labeling
 When drawing a bounding box (bbox) around buildings:
-1. Make sure the bbox includes the entire building
-1. Only draw the bbox around the front face (or façade) of the building. (This is helps when linking the streetview properties to the building footprint map).
-1. After drawing the bbox, check *all* building properties
-1. If you start labeling buildings in an image, be sure to completely label the image.
+1. Make sure the bbox includes the entire building.
+2. Only draw the bbox around the front face (or façade) of the building. (This is helps when linking the streetview properties to the building footprint map).
+3. After drawing the bbox, check *all* building properties.
+4. If you start labeling buildings in an image, be sure to completely label the image.
 
 ## Repetitive or difficult labels
 If there are multiple images in a row that are the same or very similar, it's okay to skip images. This may happen if the car was moving slowly when taking pictures or driving past a very similar scene (e.g., a field, forest, or very long building).
