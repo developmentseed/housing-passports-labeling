@@ -29,3 +29,6 @@ When the car drove around corners, the images will stop showing one face of a bu
 ### 3. Images object block line of sight to a building
 When a car, tree, or other object is in front of a building, we should still label it. Do your best to draw a good bbox, and then mark the building with the “occluded” property within the CVAT labeling program.
 ![image](https://user-images.githubusercontent.com/19536044/58819698-65ed2480-85f6-11e9-9f52-e753899dad76.png)
+
+### 4. Building openings
+Only label building openings (windows, doors, garages) when those openings are part of a building. Openings that are part of a stand-alone wall should be skipped.
