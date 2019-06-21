@@ -16,16 +16,16 @@ Complete construction means the owners appear finished with changes to the build
     <tr>
         <td>
             <figure class="image">
-                <img style="width:350px; height:300px; padding:5px;"
+                <img style="width:378px; height:320px; padding:5px;"
                     src="/assets/graphics/images/buildings/complete/img3.png">
-                <figcaption style="font-size:13px; text-align: center;">Complete building</figcaption>
+                <figcaption style="font-size:13px; text-align: center;">Example 5</figcaption>
             </figure>
         </td>
         <td>
             <figure class="image">
-                <img style="width:350px; height:300px; padding:5px;"
+                <img style="width:378px; height:320px; padding:5px;"
                     src="/assets/graphics/images/buildings/complete/img4.png">
-                <figcaption style="font-size:13px; text-align: center;">Complete building</figcaption>
+                <figcaption style="font-size:13px; text-align: center;">Example 6</figcaption>
              </figure>
         </td>
     </tr>
@@ -35,16 +35,16 @@ Complete construction means the owners appear finished with changes to the build
     <tr>
         <td>
             <figure class="image">
-                <img style="width:350px; height:300px; padding:5px;"
+                <img style="width:378px; height:320px; padding:5px;"
                     src="/assets/graphics/images/buildings/complete/img5.png">
-                <figcaption style="font-size:13px; text-align: center;">Complete building</figcaption>
+                <figcaption style="font-size:13px; text-align: center;">Example 7</figcaption>
             </figure>
         </td>
         <td>
             <figure class="image">
-                <img style="width:350px; height:300px; padding:5px;"
+                <img style="width:378px; height:320px; padding:5px;"
                     src="/assets/graphics/images/buildings/complete/img6.png">
-                <figcaption style="font-size:13px; text-align: center;">Complete building</figcaption>
+                <figcaption style="font-size:13px; text-align: center;">Example 8</figcaption>
             </figure>
         </td>
     </tr>
@@ -54,9 +54,9 @@ Complete construction means the owners appear finished with changes to the build
     <tr>
         <td>
             <figure class="image">
-                <img style="width:350px; height:300px; padding:5px;"
+                <img style="width:378px; height:320px; padding:5px;"
                     src="/assets/graphics/images/buildings/complete/img7.png">
-                <figcaption style="font-size:13px; text-align: center;">Complete building</figcaption>
+                <figcaption style="font-size:13px; text-align: center;">Example 9</figcaption>
             </figure>
         </td>
         <td>

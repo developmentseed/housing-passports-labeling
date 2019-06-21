@@ -8,6 +8,25 @@ Incomplete construction means it appears that the owners want to add on to their
 
 ### Examples:
 
-![image](https://user-images.githubusercontent.com/19536044/58279928-3b34dd80-7d65-11e9-8c22-293cb80afdb2.png)
+![image](/assets/graphics/images/buildings/incomplete/img1.png)
 
-![image](https://user-images.githubusercontent.com/19536044/58279938-40922800-7d65-11e9-96d4-d73839db8d51.png)
+![image](/assets/graphics/images/buildings/incomplete/img2.png)
+
+<table>
+    <tr>
+        <td>
+            <figure class="image">
+                <img style="width:378px; height:320px; padding:5px;"
+                    src="/assets/graphics/images/buildings/incomplete/img3.png">
+                <figcaption style="font-size:13px; text-align: center;">Example 5</figcaption>
+            </figure>
+        </td>
+        <td>
+            <figure class="image">
+                <img style="width:378px; height:320px; padding:5px;"
+                    src="/assets/graphics/images/buildings/incomplete/img4.png">
+                <figcaption style="font-size:13px; text-align: center;">Example 6</figcaption>
+             </figure>
+        </td>
+    </tr>
+</table>

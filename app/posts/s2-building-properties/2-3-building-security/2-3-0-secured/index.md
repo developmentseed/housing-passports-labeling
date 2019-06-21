@@ -15,6 +15,6 @@ Secured buildings have a protective barrier around them to keep others out.
 - When the fence cover all the building. Some examples:
 ![image](https://user-images.githubusercontent.com/19536044/59781435-5ff77480-9281-11e9-8e71-ac534fc42ea4.png)
 
-**Cponsider like not occluded**
+**Consider like not occluded**
 - When the fence does not cover all the building and it allows us to see the building. Some examples:
 ![image](https://user-images.githubusercontent.com/19536044/59781469-74d40800-9281-11e9-91b6-c3052fdefb6e.png)
