@@ -75,25 +75,25 @@
                         <% for(var i=0; i < city.images.length; i=i+2) { %>
                           <table>
                               <tr>
-                                  <td>
+                                  <td style="width:380px; padding:10px;">
                                       <figure class="image">
-                                          <img style="width:378px; height:320px; padding:5px;" src="<%= city.images[i].image_path %>">
-                                          <figcaption style="font-size:13px; text-align: center;">
-                                            Example <%= i+1 %> 
+                                          <img style="width:375px; height:320px; " src="<%= city.images[i].image_path %>">
+                                          <figcaption style="font-size:14px; text-align: center;">
+                                            Example <%= i+1 %>
                                             <% if (typeof city.images[i].title !== 'undefined') { %>
-                                            , <%= city.images[i].title %>
+                                           , <%= city.images[i].title %>
                                             <% } %>
                                           </figcaption>
                                       </figure>
                                   </td>
                                   <% if (typeof city.images[i+1] !== 'undefined') { %>
-                                  <td>
+                                  <td style="width:380px; padding:10px;">
                                       <figure class="image">
-                                          <img style="width:378px; height:320px; padding:5px;" src="<%= city.images[i+1].image_path %>">
-                                          <figcaption style="font-size:13px; text-align: center;">
+                                          <img style="width:375px; height:320px;" src="<%= city.images[i+1].image_path %>">
+                                          <figcaption style="font-size:14px; text-align: center;">
                                             Example <%= i+2 %>
                                             <% if (typeof city.images[i+1].title !== 'undefined') { %>
-                                              , <%= city.images[i+1].title %>
+                                             , <%= city.images[i+1].title %>
                                             <% } %>
                                           </figcaption>
                                       </figure>
