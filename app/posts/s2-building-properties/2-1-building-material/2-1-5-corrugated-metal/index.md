@@ -2,9 +2,18 @@
 title: Corrugated metal 
 date: 2012-08-23
 layout: post.html
+cities:
+    - name: Bogota
+      images:
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_bogota_01.jpg
+          title: 'Corrugate metal'
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_bogota_02.jpg
+          title: 'Corrugate metal'
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_bogota_03.jpg
+          title: 'Corrugate metal'
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_bogota_04.jpg
+          title: 'Corrugate metal'
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_bogota_05.jpg
+          title: 'Corrugate metal'
 ---
 Buildings constructed with corrugated metal material. (e.g., zinc, tin, etc.).
-### Examples:
-![image](https://user-images.githubusercontent.com/19536044/58281590-1478a600-7d69-11e9-95bc-33e1392968d9.png)
-
-![image](https://user-images.githubusercontent.com/19536044/58281597-18a4c380-7d69-11e9-8cb3-8eefd9c27241.png)

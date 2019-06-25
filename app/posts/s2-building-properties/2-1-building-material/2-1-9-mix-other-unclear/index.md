@@ -2,9 +2,18 @@
 title: Mix/other/unclear 
 date: 2012-08-23
 layout: post.html
+cities:
+    - name: Bogota
+      images:
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_bogota_01.jpg
+          title: 'Mix other unclear'
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_bogota_02.jpg
+          title: 'Mix other unclear'
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_bogota_03.jpg
+          title: 'Mix other unclear'
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_bogota_04.jpg
+          title: 'Mix other unclear'
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_bogota_05.jpg
+          title: 'Mix other unclear'
 ---
 Buildings with multiple materials (e.g., first floor concrete, second brick), unclear materials, or a material not among those listed, we label the material as mix/other/unclear.
-### Examples:
-![image](https://user-images.githubusercontent.com/19536044/58281690-573a7e00-7d69-11e9-83aa-d10e4621a3c9.png)
-
-![image](https://user-images.githubusercontent.com/19536044/58281713-66b9c700-7d69-11e9-8097-524b390f9942.png)
