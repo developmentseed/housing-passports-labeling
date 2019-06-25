@@ -67,6 +67,45 @@
               <div class="inner">
                 <div class="prose prose--responsive">
                   <%- contents %>
+                  <!-- Display example images -->
+                  <% if (typeof cities !== 'undefined') { %>
+                    <% cities.forEach(function(city) { %>
+                      <h3>City: <%= city.name %></h3>
+                      <% if (typeof city.images !== 'undefined') { %>
+                        <% for(var i=0; i < city.images.length; i=i+2) { %>
+                          <table>
+                              <tr>
+                                  <td>
+                                      <figure class="image">
+                                          <img style="width:378px; height:320px; padding:5px;" src="<%= city.images[i].image_path %>">
+                                          <figcaption style="font-size:13px; text-align: center;">
+                                            Example <%= i+1 %> 
+                                            <% if (typeof city.images[i].title !== 'undefined') { %>
+                                            , <%= city.images[i].title %>
+                                            <% } %>
+                                          </figcaption>
+                                      </figure>
+                                  </td>
+                                  <% if (typeof city.images[i+1] !== 'undefined') { %>
+                                  <td>
+                                      <figure class="image">
+                                          <img style="width:378px; height:320px; padding:5px;" src="<%= city.images[i+1].image_path %>">
+                                          <figcaption style="font-size:13px; text-align: center;">
+                                            Example <%= i+2 %>
+                                            <% if (typeof city.images[i+1].title !== 'undefined') { %>
+                                              , <%= city.images[i+1].title %>
+                                            <% } %>
+                                          </figcaption>
+                                      </figure>
+                                  </td>
+                                  <% } %>
+                              </tr>
+                          </table>
+                        <% } %>
+                      <% } %>
+                    <% }); %>
+                  <% } %>
+                  <!-- End display example images -->
                 </div>
               </div>
             </div>
