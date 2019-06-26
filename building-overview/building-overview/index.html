@@ -36,7 +36,7 @@
 
 
 
-<link rel="stylesheet" href="http://devseed.com/housing-passports-labeling/assets/styles/main-adf3230e27.css">
+<link rel="stylesheet" href="http://devseed.com/housing-passports-labeling/assets/styles/main-15597c7501.css">
 
   </head>
   <body>
@@ -556,17 +556,29 @@
 <h2>Special cases</h2>
 <h3>1. Far away buildings</h3>
 <p>If the buildings are too far away, skip them because it will be hard to figure out all the properties. The cutoff distance should be about 10-15 meters, but use your judgement.</p>
-<p>Here is an example where the buildings are too far away across a double highway:
-<img src="https://user-images.githubusercontent.com/19536044/58639451-8f3b4700-82bc-11e9-96f2-71df914023b5.png" alt="image" /></p>
+<p>Here is an example where the buildings are too far away across a double highway:</p>
+<div class="gallery">
+    <figure >
+        <img src="/assets/graphics/content_blogs/far_away_1.png">
+        <figcaption> Example 1, Protection barrier.</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/content_blogs/far_away_2.png">
+        <figcaption> Example 2, Protection barrier.</figcaption>
+    </figure>
+</div>
 <h3>2. Building corners</h3>
 <p>When the car drove around corners, the images will stop showing one face of a building and start showing another. In these cases, we should label only the images where the image contains a single face or façade, as you can see in the gif below:
-<img src="https://user-images.githubusercontent.com/19536044/58818834-6b496f80-85f4-11e9-956b-18046b73569c.gif" alt="corner" /></p>
+<img src="/assets/graphics/content_blogs/building_corners.gif" alt="corner" /></p>
 <h3>3. Images object block line of sight to a building</h3>
 <p>When a car, tree, or other object is in front of a building, we should still label it. Do your best to draw a good bbox, and then mark the building with the “occluded” property within the CVAT labeling program.
-<img src="https://user-images.githubusercontent.com/19536044/58819698-65ed2480-85f6-11e9-9f52-e753899dad76.png" alt="image" /></p>
+<img src="/assets/graphics/content_blogs/images_object_block_line.png" alt="image" /></p>
 <h3>4. Building openings</h3>
 <p>Only label building openings (windows, doors, garages) when those openings are part of a building. Openings that are part of a stand-alone wall should be skipped.</p>
 
+                  <!-- Display example images -->
+
+<!-- End display example images -->
                 </div>
               </div>
             </div>
@@ -612,6 +624,6 @@
 
     <script src="http://devseed.com/housing-passports-labeling/assets/scripts/vendor-2fa80a543b.js"></script>
 
-<script src="http://devseed.com/housing-passports-labeling/assets/scripts/bundle-2032db05bd.js"></script>
+<script src="http://devseed.com/housing-passports-labeling/assets/scripts/bundle-9bfbfe1a56.js"></script>
   </body>
 </html>
