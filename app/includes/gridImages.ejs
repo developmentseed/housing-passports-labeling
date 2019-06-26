@@ -1,0 +1,23 @@
+<!-- Display example images -->
+<% if (typeof cities !== 'undefined') { %>
+<% cities.forEach(function(city) { %>
+<h3>City: <%= city.name %></h3>
+<div class="gallery">
+    <% if (typeof city.images !== 'undefined') { %>
+    <% for(var i=0; i < city.images.length; i++) { %>
+    <% if (typeof city.images[i] !== 'undefined') { %>
+    <figure>
+        <img src="<%- site.baseurl %><%= city.images[i].image_path %>">
+        <figcaption> Example <%= i+1 %>
+            <% if (typeof city.images[i].title !== 'undefined') { %>
+            , <%= city.images[i].title %>
+            <% } %>
+        </figcaption>
+    </figure>
+    <% } %>
+    <% } %>
+    <% } %>
+</div>
+<% }); %>
+<% } %>
+<!-- End display example images -->

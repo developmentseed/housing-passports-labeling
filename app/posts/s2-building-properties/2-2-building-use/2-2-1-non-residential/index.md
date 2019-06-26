@@ -2,9 +2,18 @@
 title: Non residential
 date: 2012-08-23
 layout: post.html
+cities:
+    - name: Bogota
+      images:
+        - image_path: /assets/graphics/images/building_use/commercial_public_bogota_01.jpg
+          title: 'Comercial public'
+        - image_path: /assets/graphics/images/building_use/commercial_public_bogota_02.jpg
+          title: 'Comercial public'
+        - image_path: /assets/graphics/images/building_use/commercial_public_bogota_03.jpg
+          title: 'Comercial public'
+        - image_path: /assets/graphics/images/building_use/commercial_public_bogota_04.jpg
+          title: 'Comercial public'
+        - image_path: /assets/graphics/images/building_use/commercial_public_bogota_05.jpg
+          title: 'Comercial public'
 ---
 When the building is used for commercial or public purposes. Examples include a building that may be used as a government facility, school, hospital, or store.
-### Examples:
-![image](https://user-images.githubusercontent.com/19536044/58286156-bac9a900-7d73-11e9-9a64-341ce0045dad.png)
-
-![image](https://user-images.githubusercontent.com/19536044/58286166-bf8e5d00-7d73-11e9-807e-e628b7f9b9b6.png)

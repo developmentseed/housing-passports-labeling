@@ -3,7 +3,8 @@ title: Building material
 date: 2012-08-23
 layout: post.html
 ---
-The building material options are: 
+The building material options are:
+ 
 - Brick or cement/concrete block
 - Plaster 
 - Wood – polished
@@ -14,5 +15,3 @@ The building material options are:
 - Container/Trailer
 - Plant material 
 - Mix/other/unclear
-
-

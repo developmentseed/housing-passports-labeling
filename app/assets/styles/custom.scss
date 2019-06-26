@@ -1,0 +1,28 @@
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(300px, 1fr));
+    grid-gap: 5px;
+    align-items: stretch;
+}
+
+@media screen and (max-width: 800px) {
+    .gallery {
+        grid-template-columns: 1fr;
+    }
+}
+
+.gallery img {
+    width: 375px;
+    height: 320px;
+    min-width: 375px;
+    max-width: 375px;
+    min-height: 320px;
+    max-height: 320px;
+}
+
+.gallery figcaption {
+    font-size:13px; 
+    text-align: center;
+    color:#637282;
+    font-style: oblique 40deg;
+}

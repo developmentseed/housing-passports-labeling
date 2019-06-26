@@ -2,9 +2,14 @@
 title: Wood - polished 
 date: 2012-08-23
 layout: post.html
+cities:
+    - name: Bogota
+      images:
+        - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_bogota_01.jpg
+          title: 'Wood polished'
+        - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_bogota_02.jpg
+          title: 'Wood polished'
+        - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_bogota_03.jpg
+          title: 'Wood polished'
 ---
 Building constructed with wood that looks finished and/or polished.
-### Examples:
-![image](https://user-images.githubusercontent.com/19536044/58281641-33773800-7d69-11e9-9cb5-8a57e7eb6e1b.png)
-
-
