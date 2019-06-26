@@ -16,7 +16,7 @@ We're using the CVAT labeling platform to perform the annotations. The CVAT tool
 - Each task should only have one annotator working on it at a time. If 2 or more annotators are working on the same task, there might be problems with labels getting overwritten.
 
 - To expose all of the CVAT buttons/tools in the bottom pane, you may want to zoom out one level in your browser. Here's an example of how to do this in Google Chrome.
-![cvat_chrome_](https://user-images.githubusercontent.com/19536044/59772856-31be6880-9272-11e9-9bfd-6beff5657a91.gif)
+![cvat_chrome_](/assets/graphics/content_blogs/cvat_tips1.gif)
 
 
 - In the CVAT tool you can use shortcuts, for instance:
