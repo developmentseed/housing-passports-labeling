@@ -5,5 +5,5 @@ layout: post.html
 ---
 
 The building security options are:
-- Secured
-- Unsecured
+- [Secured](../secure/)
+- [Unsecured](../unsecure/)

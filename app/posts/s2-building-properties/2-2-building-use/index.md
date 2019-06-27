@@ -5,6 +5,6 @@ layout: post.html
 ---
 
 The building use options are:
-- Residental
-- Non residential
-- Mixed
+- [Residental](../residential/)
+- [Non residential](../non-residential/)
+- [Mixed](../mixed/)
