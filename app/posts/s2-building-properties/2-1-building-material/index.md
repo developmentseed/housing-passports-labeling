@@ -5,13 +5,13 @@ layout: post.html
 ---
 The building material options are:
  
-- Brick or cement/concrete block
-- Plaster 
-- Wood – polished
-- Wood – crude/plank
-- Adobe
-- Corrugated metal 
-- Stone with mud/ashlar with lime or cement
-- Container/Trailer
-- Plant material 
-- Mix/other/unclear
+- [Brick or cement/concrete block](../brick-or-cement-concrete-block/)
+- [Plaster ](../plaster)
+- [Wood – polished](../wood-polished/)
+- [Wood – crude/plank](../wood-crude-plank/)
+- [Adobe](../adobe/)
+- [Corrugated metal ](../corrugated-metal/)
+- [Stone with mud/ashlar with lime or cement](../stone-with-mud-ashlar-with-lime-or-cement/)
+- [Container/Trailer](../container-trailer/)
+- [Plant material ](../plant-material/)
+- [Mix/other/unclear](../mix-other-unclear/)
