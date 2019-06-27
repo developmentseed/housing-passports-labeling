@@ -17,4 +17,5 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/complete_bogota_10.png
         - image_path: /assets/graphics/images/building_completeness/complete_bogota_11.png
 ---
+
 Complete construction means the owners appear finished with changes to the building structure. They do not appear to be incrementally adding floors or other major structures. Complete buildings will usually have a fixed or static roof, no unfinished windows, and may have an exterior finished with paint, tile, or plaster.
