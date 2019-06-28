@@ -9,11 +9,9 @@ cities:
           title: 'Comercial public'
         - image_path: /assets/graphics/images/building_use/commercial_public_bogota_02.jpg
           title: 'Comercial public'
-        - image_path: /assets/graphics/images/building_use/commercial_public_bogota_03.jpg
-          title: 'Comercial public'
-        - image_path: /assets/graphics/images/building_use/commercial_public_bogota_04.jpg
-          title: 'Comercial public'
-        - image_path: /assets/graphics/images/building_use/commercial_public_bogota_05.jpg
+    - name: Neiva
+      images:
+        - image_path: /assets/graphics/images/building_use/commercial_public_neiva_01.png
           title: 'Comercial public'
 ---
 When the building is used for commercial or public purposes. Examples include a building that may be used as a government facility, school, hospital, or store.
