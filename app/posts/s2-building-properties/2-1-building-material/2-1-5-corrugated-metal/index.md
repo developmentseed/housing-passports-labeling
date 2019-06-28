@@ -15,5 +15,10 @@ cities:
           title: 'Corrugate metal'
         - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_bogota_05.jpg
           title: 'Corrugate metal'
+
+    - name: Neiva
+      images:
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_neiva_01.png
+          title: 'Corrugate metal'
 ---
 Buildings constructed with corrugated metal material. (e.g., zinc, tin, etc.).
