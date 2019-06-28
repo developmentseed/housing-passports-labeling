@@ -23,6 +23,11 @@ cities:
       images:
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_01.png
           title: The building does not have good columns to keep adding more floors.
+        - image_path: /assets/graphics/images/building_completeness/complete_neiva_02.png
+        - image_path: /assets/graphics/images/building_completeness/complete_neiva_03.png
+        - image_path: /assets/graphics/images/building_completeness/complete_neiva_04.png
+        - image_path: /assets/graphics/images/building_completeness/complete_neiva_05.png
+
 ---
 
 Complete construction means the owners appear finished with changes to the building structure. They do not appear to be incrementally adding floors or other major structures. Complete buildings will usually have a fixed or static roof, no unfinished windows, and may have an exterior finished with paint, tile, or plaster.
