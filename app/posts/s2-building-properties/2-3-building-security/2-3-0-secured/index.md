@@ -64,6 +64,19 @@ Secured buildings have a protective barrier around them to keep others out.
     </figure>
 </div>
 
+## City: Cartagena
+
+<div class="gallery">
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_01.png">
+        <figcaption> Example 1</figcaption>
+    </figure>
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_02.png">
+        <figcaption> Example 2</figcaption>
+    </figure>
+</div>
+
 ### Cases when there is a fence, should we consider occluded or not?
 
 **Consider like occluded**
