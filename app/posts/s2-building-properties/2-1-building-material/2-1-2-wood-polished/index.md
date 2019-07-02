@@ -11,5 +11,16 @@ cities:
           title: 'Wood polished'
         - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_bogota_03.jpg
           title: 'Wood polished'
+    - name: St Maarten
+      images:
+        - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_st_maarten_01.png
+          title: 'Wood polished'
+        - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_st_maarten_02.png
+          title: 'Wood polished'
+        - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_st_maarten_03.png
+          title: 'Wood polished'
+        - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_st_maarten_04.png
+          title: 'Wood polished'
 ---
 Building constructed with wood that looks finished and/or polished.
+
