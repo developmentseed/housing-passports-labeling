@@ -13,5 +13,7 @@ cities:
       images:
         - image_path: /assets/graphics/images/building_use/commercial_public_neiva_01.png
           title: 'Comercial public'
+        - image_path: /assets/graphics/images/building_use/commercial.png
+          title: 'Comercial public'
 ---
 When the building is used for commercial or public purposes. Examples include a building that may be used as a government facility, school, hospital, or store.
