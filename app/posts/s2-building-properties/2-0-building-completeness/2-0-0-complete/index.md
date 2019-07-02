@@ -27,6 +27,7 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_03.png
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_04.png
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_05.png
+        - image_path: /assets/graphics/images/building_completeness/complete_neiva_06.png
 
 ---
 
