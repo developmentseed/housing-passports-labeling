@@ -13,6 +13,16 @@ cities:
       images:
         - image_path: /assets/graphics/images/building_completeness/incomplete_lima_01.png
         - image_path: /assets/graphics/images/building_completeness/incomplete_lima_02.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_lima_03.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_lima_04.png
+    - name: Cartagena
+      images:
+        - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_02.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_03.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_04.png
+    - name: Neiva
+      images:
+        - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_04.png  
 ---
 
 Incomplete construction means it appears that the owners want to add on to their structure. Often, this occurs when they want to incrementally add on floors to the building. Common signs of incremental building include temporary roofs (e.g., tarps or removable metal) or exposed rebar that's sticking up.

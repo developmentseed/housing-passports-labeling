@@ -19,6 +19,18 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_04.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_05.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_06.png
+    - name: Lima
+      images:
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_01.png
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_02.png
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_03.png
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_04.png
+    - name: St Maarten
+      images:
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_01.png
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_02.png
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_03.png
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_04.png
     - name: Neiva
       images:
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_01.png

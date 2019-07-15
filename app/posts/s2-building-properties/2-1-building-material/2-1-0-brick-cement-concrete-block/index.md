@@ -25,5 +25,39 @@ cities:
           title: 'Brick'
         - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_bogota_05.jpg
           title: 'Brick'
+    - name: Lima
+      images:
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_lima_01.png
+          title: 'Brick'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_lima_02.png
+          title: 'Brick'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_lima_03.png
+          title: 'Brick'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_lima_04.png
+          title: 'Brick'
+    - name: Cartagena
+      images:
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/concrete_cartagena_01.png
+          title: 'Concrete'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_cartagena_02.png
+          title: 'Brick'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/concrete_cartagena_03.png
+          title: 'Concrete'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_cartagena_04.png
+          title: 'Brick'
+    - name: St Maarten
+      images:
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/concrete_st_maarten_01.png
+          title: 'Concrete'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/concrete_st_maarten_02.png
+          title: 'Concrete'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/concrete_st_maarten_03.png
+          title: 'Concrete'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_st_maarten_04.png
+          title: 'Brick'
+    - name: Neiva
+      images:
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/incomplete_neiva_04.jpg
+          title: 'Brick'
 ---
 Buildings constructed with a brick material or cement/concrete block.
