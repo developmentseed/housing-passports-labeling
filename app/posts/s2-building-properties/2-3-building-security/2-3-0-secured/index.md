@@ -35,6 +35,48 @@ Secured buildings have a protective barrier around them to keep others out.
     </figure>
 </div>
 
+## City: Neiva
+
+<div class="gallery">
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_01.png">
+        <figcaption> Example 1</figcaption>
+    </figure>
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_02.png">
+        <figcaption> Example 2</figcaption>
+    </figure>
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_03.png">
+        <figcaption> Example 3</figcaption>
+    </figure>
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_04.png">
+        <figcaption> Example 4</figcaption>
+    </figure>
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_05.png">
+        <figcaption> Example 5</figcaption>
+    </figure>
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_06.png">
+        <figcaption> Example 6</figcaption>
+    </figure>
+</div>
+
+## City: Cartagena
+
+<div class="gallery">
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_01.png">
+        <figcaption> Example 1</figcaption>
+    </figure>
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_02.png">
+        <figcaption> Example 2</figcaption>
+    </figure>
+</div>
+
 ### Cases when there is a fence, should we consider occluded or not?
 
 **Consider like occluded**

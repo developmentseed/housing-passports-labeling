@@ -15,5 +15,9 @@ cities:
           title: 'Residential'
         - image_path: /assets/graphics/images/building_use/residential_bogota_05.jpg
           title: 'Residential'
+    - name: St Maarten
+      images:
+        - image_path: /assets/graphics/images/building_use/residential_st_maarten_01.png
+          title: 'Residential'
 ---
 When the building is used only for residential housing.

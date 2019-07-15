@@ -10,5 +10,19 @@ cities:
         - image_path: /assets/graphics/images/building_condition/poor_bogota_03.jpg
         - image_path: /assets/graphics/images/building_condition/poor_bogota_04.jpg
         - image_path: /assets/graphics/images/building_condition/poor_bogota_05.jpg
+    - name: Neiva
+      images:
+        - image_path: /assets/graphics/images/building_condition/poor_neiva_01.png
+        - image_path: /assets/graphics/images/building_condition/poor_neiva_02.png
+        - image_path: /assets/graphics/images/building_condition/poor_neiva_03.png
+        - image_path: /assets/graphics/images/building_condition/poor_neiva_04.png
+        - image_path: /assets/graphics/images/building_condition/poor_neiva_05.png
+    - name: Lima
+      images:
+        - image_path: /assets/graphics/images/building_condition/poor_lima_01.png
+    - name: St Maarten
+      images:
+        - image_path: /assets/graphics/images/building_condition/poor_st_maarten_01.png
+        - image_path: /assets/graphics/images/building_condition/poor_st_maarten_02.png      
 ---
 Buildings in 'poor' condition are not well maintained. They could have peeling paint, very dirty, unfinished, or cracked walls, or lots of exposed or unfinished brick work.

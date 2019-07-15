@@ -25,3 +25,11 @@ Install Node modules:
 ```
 yarn install
 ```
+## Start local server
+
+```
+yarn run server
+```
+
+the app will start at: http://localhost:3000/
+
