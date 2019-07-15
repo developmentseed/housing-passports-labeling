@@ -11,6 +11,11 @@ cities:
       images:
         - image_path: /assets/graphics/images/building_security/unsecured_cartagena_01.png
           title: The fences is short size and it would not stop a person to jump over it, so the building is considered as unsecured.
+    - name: Neiva
+      images:
+        - image_path: /assets/graphics/images/building_security/unsecured_neiva_01.png
+        - image_path: /assets/graphics/images/building_security/unsecured_neiva_02.png
+        - image_path: /assets/graphics/images/building_security/unsecured_neiva_03.png
 
 ---
 Unsecured buildings do not have a protective barrier.
