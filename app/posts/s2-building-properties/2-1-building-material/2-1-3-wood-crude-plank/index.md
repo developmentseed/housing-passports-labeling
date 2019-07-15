@@ -9,5 +9,15 @@ cities:
           title: 'Wood crude plank'
         - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_bogota_02.jpg
           title: 'Wood crude plank'
+    - name: Cartagena
+      images:
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_01.png
+          title: 'Wood crude plank'
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_02.png
+          title: 'Wood crude plank'
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_03.png
+          title: 'Wood crude plank'
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_04.png
+          title: 'Wood crude plank'
 ---
 Buildings constructed crudely with wood where individual wood planks are obvious or unfinished looking.
