@@ -9,58 +9,20 @@ Secured buildings have a protective barrier around them to keep others out.
 
 <div class="gallery">
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_01.jpg">
+        <img src="/assets/graphics/images/building_security/secured_01.jpg">
         <figcaption> Example 1, Protection barrier.</figcaption>
     </figure>
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_02.jpg">
+        <img src="/assets/graphics/images/building_security/secured_02.jpg">
         <figcaption> Example 2, Protection barrier.</figcaption>
     </figure>
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_03.jpg">
+        <img src="/assets/graphics/images/building_security/secured_03.jpg">
         <figcaption> Example 3, Protection barrier.</figcaption>
     </figure>
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_bogota_04.jpg">
+        <img src="/assets/graphics/images/building_security/secured_bogota_04.jpg">
         <figcaption> Example 4, Protection barrier.</figcaption>
-    </figure>
-</div>
-
-## City: Lima
-
-<div class="gallery">
-    <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_lima_01.png">
-        <figcaption> Example 1, Fences for security</figcaption>
-    </figure>
-</div>
-
-## City: Neiva
-
-<div class="gallery">
-    <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_01.png">
-        <figcaption> Example 1</figcaption>
-    </figure>
-    <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_02.png">
-        <figcaption> Example 2</figcaption>
-    </figure>
-    <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_03.png">
-        <figcaption> Example 3</figcaption>
-    </figure>
-    <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_04.png">
-        <figcaption> Example 4</figcaption>
-    </figure>
-    <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_05.png">
-        <figcaption> Example 5</figcaption>
-    </figure>
-    <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_06.png">
-        <figcaption> Example 6</figcaption>
     </figure>
 </div>
 
@@ -68,12 +30,91 @@ Secured buildings have a protective barrier around them to keep others out.
 
 <div class="gallery">
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_01.png">
+        <img src="/assets/graphics/images/building_security/secure_cartagena_01.png">
         <figcaption> Example 1</figcaption>
     </figure>
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_02.png">
+        <img src="/assets/graphics/images/building_security/secure_cartagena_02.png">
         <figcaption> Example 2</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secure_cartagena_03.png">
+        <figcaption> Example 3</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secure_cartagena_04.png">
+        <figcaption> Example 4</figcaption>
+    </figure>
+</div>
+
+## City: Lima
+
+<div class="gallery">
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_lima_01.png">
+        <figcaption> Example 1, Fences for security</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_lima_02.png">
+        <figcaption> Example 2, Fences for security</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_lima_03.png">
+        <figcaption> Example 3, Fences for security</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_lima_04.png">
+        <figcaption> Example 4, Fences for security</figcaption>
+    </figure>
+</div>
+
+## City: Neiva
+
+<div class="gallery">
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_neiva_01.png">
+        <figcaption> Example 1</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_neiva_02.png">
+        <figcaption> Example 2</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_neiva_03.png">
+        <figcaption> Example 3</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_neiva_04.png">
+        <figcaption> Example 4</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_neiva_05.png">
+        <figcaption> Example 5</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_neiva_06.png">
+        <figcaption> Example 6</figcaption>
+    </figure>
+</div>
+
+## City: St Maarten
+
+<div class="gallery">
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_st_maarten_01.png">
+        <figcaption> Example 1</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_st_maarten_02.png">
+        <figcaption> Example 2</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_st_maarten_03.png">
+        <figcaption> Example 3</figcaption>
+    </figure>
+    <figure >
+        <img src="/assets/graphics/images/building_security/secured_st_maarten_04.png">
+        <figcaption> Example 4</figcaption>
     </figure>
 </div>
 
@@ -85,11 +126,11 @@ Secured buildings have a protective barrier around them to keep others out.
 
 <div class="gallery">
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_01.png">
+        <img src="/assets/graphics/images/building_security/secured_neiva_01.png">
         <figcaption> Example 1, Protection barrier.</figcaption>
     </figure>
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secured_neiva_02.png">
+        <img src="/assets/graphics/images/building_security/secured_neiva_02.png">
         <figcaption> Example 2, Protection barrier.</figcaption>
     </figure>
 </div>
@@ -99,11 +140,11 @@ Secured buildings have a protective barrier around them to keep others out.
 
 <div class="gallery">
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_neiva_01.png">
+        <img src="/assets/graphics/images/building_security/secure_cartagena_neiva_01.png">
         <figcaption> Example 1, Protection barrier.</figcaption>
     </figure>
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_neiva_02.png">
+        <img src="/assets/graphics/images/building_security/secure_cartagena_neiva_02.png">
         <figcaption> Example 2, Protection barrier.</figcaption>
     </figure>
 </div>
