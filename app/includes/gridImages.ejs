@@ -1,6 +1,4 @@
 <!-- Display example images -->
-<button id="modal-btn"> click me, I make a modal</button>
-
 <% if (typeof cities !== 'undefined') { %>
 <% cities.forEach(function(city) { %>
 <h3>City: <%= city.name %></h3>
@@ -9,7 +7,7 @@
     <% for(var i=0; i < city.images.length; i++) { %>
     <% if (typeof city.images[i] !== 'undefined') { %>
     <figure>
-        <img src="<%- site.baseurl %><%= city.images[i].image_path %>">
+        <a class="modal-btn"><img  src="<%- site.baseurl %><%= city.images[i].image_path %>"></a>
         <figcaption> Example <%= i+1 %>
             <% if (typeof city.images[i].title !== 'undefined') { %>
             , <%= city.images[i].title %>
