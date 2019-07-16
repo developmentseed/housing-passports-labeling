@@ -7,7 +7,7 @@
     <% for(var i=0; i < city.images.length; i++) { %>
     <% if (typeof city.images[i] !== 'undefined') { %>
     <figure>
-        <img src="<%- site.baseurl %><%= city.images[i].image_path %>">
+        <a class="modal-btn"><img  src="<%- site.baseurl %><%= city.images[i].image_path %>"></a>
         <figcaption> Example <%= i+1 %>
             <% if (typeof city.images[i].title !== 'undefined') { %>
             , <%= city.images[i].title %>
