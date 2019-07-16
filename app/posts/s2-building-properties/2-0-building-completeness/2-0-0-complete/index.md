@@ -19,6 +19,12 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_04.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_05.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_06.png
+    - name: Lima
+      images:
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_01.png
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_02.png
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_03.png
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_04.png
     - name: Neiva
       images:
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_01.png
@@ -28,7 +34,12 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_04.png
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_05.png
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_06.png
-
+    - name: St Maarten
+      images:
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_01.png
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_02.png
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_03.png
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_04.png
 ---
 
 Complete construction means the owners appear finished with changes to the building structure. They do not appear to be incrementally adding floors or other major structures. Complete buildings will usually have a fixed or static roof, no unfinished windows, and may have an exterior finished with paint, tile, or plaster.
