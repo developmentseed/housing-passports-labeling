@@ -46,5 +46,26 @@ When the car drove around corners, the images will stop showing one face of a bu
 When a car, tree, or other object is in front of a building, we should still label it. Do your best to draw a good bbox, and then mark the building with the “occluded” property within the CVAT labeling program.
 ![image](/housing-passports-labeling/assets/graphics/content_blogs/images_object_block_line.png)
 
+### Examples
+
+<div class="gallery">
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_01.png"></a>
+        <figcaption> Example 1, occluded</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_02.png"></a>
+        <figcaption> Example 2, occluded</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_03.png"></a>
+        <figcaption> Example 3, occluded</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_04.png"></a>
+        <figcaption> Example 4, occluded</figcaption>
+    </figure>
+</div>
+
 ### 4. Building openings
 Only label building openings (windows, doors, garages) when those openings are part of a building. Openings that are part of a stand-alone wall should be skipped.
