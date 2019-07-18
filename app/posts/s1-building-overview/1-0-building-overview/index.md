@@ -28,11 +28,11 @@ Here is an example where the buildings are too far away across a double highway:
 
 <div class="gallery">
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/content_blogs/far_away_1.png">
+        <img src="/assets/graphics/content_blogs/far_away_1.png">
         <figcaption> Example 1, Protection barrier.</figcaption>
     </figure>
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/content_blogs/far_away_2.png">
+        <img src="/assets/graphics/content_blogs/far_away_2.png">
         <figcaption> Example 2, Protection barrier.</figcaption>
     </figure>
 </div>
@@ -40,11 +40,32 @@ Here is an example where the buildings are too far away across a double highway:
 ### 2. Building corners
 
 When the car drove around corners, the images will stop showing one face of a building and start showing another. In these cases, we should label only the images where the image contains a single face or façade, as you can see in the gif below:
-![corner](/housing-passports-labeling/assets/graphics/content_blogs/building_corners.gif)
+![corner](/assets/graphics/content_blogs/building_corners.gif)
 
 ### 3. Images object block line of sight to a building
 When a car, tree, or other object is in front of a building, we should still label it. Do your best to draw a good bbox, and then mark the building with the “occluded” property within the CVAT labeling program.
-![image](/housing-passports-labeling/assets/graphics/content_blogs/images_object_block_line.png)
+![image](/assets/graphics/content_blogs/images_object_block_line.png)
+
+### Examples
+
+<div class="gallery">
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_01.png"></a>
+        <figcaption> Example 1, occluded</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_02.png"></a>
+        <figcaption> Example 2, occluded</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_03.png"></a>
+        <figcaption> Example 3, occluded</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_04.png"></a>
+        <figcaption> Example 4, occluded</figcaption>
+    </figure>
+</div>
 
 ### 4. Building openings
 Only label building openings (windows, doors, garages) when those openings are part of a building. Openings that are part of a stand-alone wall should be skipped.
