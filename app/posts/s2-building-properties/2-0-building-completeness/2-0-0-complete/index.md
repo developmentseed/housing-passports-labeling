@@ -9,16 +9,12 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/complete_bogota_02.jpg
         - image_path: /assets/graphics/images/building_completeness/complete_bogota_03.jpg
         - image_path: /assets/graphics/images/building_completeness/complete_bogota_04.jpg
-        - image_path: /assets/graphics/images/building_completeness/complete_bogota_05.jpg
-        - image_path: /assets/graphics/images/building_completeness/complete_bogota_06.jpg
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_01.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_02.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_03.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_04.png
-        - image_path: /assets/graphics/images/building_completeness/complete_cartagena_05.png
-        - image_path: /assets/graphics/images/building_completeness/complete_cartagena_06.png
     - name: Lima
       images:
         - image_path: /assets/graphics/images/building_completeness/complete_lima_01.png
@@ -32,8 +28,6 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_02.png
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_03.png
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_04.png
-        - image_path: /assets/graphics/images/building_completeness/complete_neiva_05.png
-        - image_path: /assets/graphics/images/building_completeness/complete_neiva_06.png
     - name: St Maarten
       images:
         - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_01.png

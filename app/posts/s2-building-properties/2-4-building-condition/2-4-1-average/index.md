@@ -9,7 +9,6 @@ cities:
         - image_path: /assets/graphics/images/building_condition/average_bogota_02.jpg
         - image_path: /assets/graphics/images/building_condition/average_bogota_03.jpg
         - image_path: /assets/graphics/images/building_condition/average_bogota_04.jpg
-        - image_path: /assets/graphics/images/building_condition/average_bogota_05.jpg
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_condition/average_cartagena_01.png

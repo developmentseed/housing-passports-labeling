@@ -33,7 +33,6 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_02.png
         - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_03.png
         - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_04.png
-        - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_05.png
 ---
 
 Incomplete construction means it appears that the owners want to add on to their structure. Often, this occurs when they want to incrementally add on floors to the building. Common signs of incremental building include temporary roofs (e.g., tarps or removable metal) or exposed rebar that's sticking up.

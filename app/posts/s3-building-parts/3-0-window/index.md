@@ -9,6 +9,5 @@ cities:
         - image_path: /assets/graphics/images/window/window_bogota_02.jpg
         - image_path: /assets/graphics/images/window/window_bogota_03.jpg
         - image_path: /assets/graphics/images/window/window_bogota_04.jpg
-        - image_path: /assets/graphics/images/window/window_bogota_05.jpg
 ---
 Opening in the building structure that aren't meant for entry/exit.

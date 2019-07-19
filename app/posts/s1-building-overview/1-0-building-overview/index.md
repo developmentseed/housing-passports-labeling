@@ -46,7 +46,9 @@ When the car drove around corners, the images will stop showing one face of a bu
 When a car, tree, or other object is in front of a building, we should still label it. Do your best to draw a good bbox, and then mark the building with the “occluded” property within the CVAT labeling program.
 ![image](/assets/graphics/content_blogs/images_object_block_line.png)
 
-### Examples
+#### Some examples about consider occluded or not
+
+**Consider like occluded**
 
 <div class="gallery">
     <figure >
@@ -64,6 +66,20 @@ When a car, tree, or other object is in front of a building, we should still lab
     <figure >
         <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_04.png"></a>
         <figcaption> Example 4, occluded</figcaption>
+    </figure>
+</div>
+
+**Consider like not occluded**
+- When the fence does not cover all the building and it allows us to see the building. Some examples:
+
+<div class="gallery">
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/images/building_security/secure_cartagena_neiva_01.png"></a>
+        <figcaption> Example 1, Protection barrier.</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/images/building_security/secure_cartagena_neiva_02.png"></a>
+        <figcaption> Example 2, Protection barrier.</figcaption>
     </figure>
 </div>
 

@@ -9,7 +9,6 @@ cities:
         - image_path: /assets/graphics/images/building_condition/poor_bogota_02.jpg
         - image_path: /assets/graphics/images/building_condition/poor_bogota_03.jpg
         - image_path: /assets/graphics/images/building_condition/poor_bogota_04.jpg
-        - image_path: /assets/graphics/images/building_condition/poor_bogota_05.jpg
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_condition/poor_cartagena_01.png
@@ -22,14 +21,12 @@ cities:
         - image_path: /assets/graphics/images/building_condition/poor_lima_02.png
         - image_path: /assets/graphics/images/building_condition/poor_lima_03.png
         - image_path: /assets/graphics/images/building_condition/poor_lima_04.png
-        - image_path: /assets/graphics/images/building_condition/poor_lima_05.png
     - name: Neiva
       images:
         - image_path: /assets/graphics/images/building_condition/poor_neiva_01.png
         - image_path: /assets/graphics/images/building_condition/poor_neiva_02.png
         - image_path: /assets/graphics/images/building_condition/poor_neiva_03.png
-        - image_path: /assets/graphics/images/building_condition/poor_neiva_04.png
-        - image_path: /assets/graphics/images/building_condition/poor_neiva_05.png        
+        - image_path: /assets/graphics/images/building_condition/poor_neiva_04.png        
     - name: St Maarten
       images:
         - image_path: /assets/graphics/images/building_condition/poor_st_maarten_01.png

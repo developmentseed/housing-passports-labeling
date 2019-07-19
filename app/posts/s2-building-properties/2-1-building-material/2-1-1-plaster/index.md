@@ -13,8 +13,6 @@ cities:
           title: 'Painted'
         - image_path: /assets/graphics/images/building_material/material_plaster/painted_bogota_04.jpg
           title: 'Painted'
-        - image_path: /assets/graphics/images/building_material/material_plaster/painted_bogota_05.jpg
-          title: 'Painted'
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_material/material_plaster/painted_cartagena_01.png

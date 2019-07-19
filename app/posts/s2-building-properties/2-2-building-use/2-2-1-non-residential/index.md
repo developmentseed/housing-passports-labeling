@@ -29,8 +29,6 @@ cities:
           title: 'Comercial public'
         - image_path: /assets/graphics/images/building_use/commercial_public_lima_04.png
           title: 'Comercial public'
-        - image_path: /assets/graphics/images/building_use/commercial_public_lima_05.png
-          title: 'Comercial public'
     - name: Neiva
       images:
         - image_path: /assets/graphics/images/building_use/commercial_public_neiva_01.png
@@ -40,8 +38,6 @@ cities:
         - image_path: /assets/graphics/images/building_use/commercial_public_neiva_03.png
           title: 'Comercial public'
         - image_path: /assets/graphics/images/building_use/commercial_public_neiva_04.png
-          title: 'Comercial public'
-        - image_path: /assets/graphics/images/building_use/commercial_public_neiva_05.png
           title: 'Comercial public'    
     - name: St Maarten
       images:
@@ -52,8 +48,6 @@ cities:
         - image_path: /assets/graphics/images/building_use/commercial_public_st_maarten_03.png
           title: 'Comercial public'
         - image_path: /assets/graphics/images/building_use/commercial_public_st_maarten_04.png
-          title: 'Comercial public'
-        - image_path: /assets/graphics/images/building_use/commercial_public_st_maarten_05.png
           title: 'Comercial public'
 ---
 When the building is used for commercial or public purposes. Examples include a building that may be used as a government facility, school, hospital, or store.

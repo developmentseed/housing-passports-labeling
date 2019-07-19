@@ -13,14 +13,6 @@ cities:
           title: 'Mixed'
         - image_path: /assets/graphics/images/building_use/mixed_bogota_04.jpg
           title: 'Mixed'
-        - image_path: /assets/graphics/images/building_use/mixed_bogota_05.jpg
-          title: 'Mixed'
-        - image_path: /assets/graphics/images/building_use/mixed_bogota_06.jpg
-          title: 'Mixed'
-        - image_path: /assets/graphics/images/building_use/mixed_bogota_07.jpg
-          title: 'Mixed'
-        - image_path: /assets/graphics/images/building_use/mixed_bogota_08.jpg
-          title: 'Mixed'
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_use/mixed_cartagena_01.png

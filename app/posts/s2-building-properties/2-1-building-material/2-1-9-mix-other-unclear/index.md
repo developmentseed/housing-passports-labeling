@@ -13,8 +13,6 @@ cities:
           title: 'Mix other unclear'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_bogota_04.jpg
           title: 'Mix other unclear'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_bogota_05.jpg
-          title: 'Mix other unclear'
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_01.png

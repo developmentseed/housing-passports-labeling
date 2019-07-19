@@ -87,14 +87,6 @@ Secured buildings have a protective barrier around them to keep others out.
         <a class="modal-btn"><img src="/assets/graphics/images/building_security/secured_neiva_04.png"></a>
         <figcaption> Example 4, Protection barrier.</figcaption>
     </figure>
-    <figure >
-        <a class="modal-btn"><img src="/assets/graphics/images/building_security/secured_neiva_05.png"></a>
-        <figcaption> Example 5, Protection barrier.</figcaption>
-    </figure>
-    <figure >
-        <a class="modal-btn"><img src="/assets/graphics/images/building_security/secured_neiva_06.png"></a>
-        <figcaption> Example 6, Protection barrier.</figcaption>
-    </figure>
 </div>
 
 ## City: St Maarten
@@ -115,36 +107,5 @@ Secured buildings have a protective barrier around them to keep others out.
     <figure >
         <a class="modal-btn"><img src="/assets/graphics/images/building_security/secured_st_maarten_04.png"></a>
         <figcaption> Example 4, Protection barrier.</figcaption>
-    </figure>
-</div>
-
-### Cases when there is a fence, should we consider occluded or not?
-
-**Consider like occluded**
-
-- When the fence cover all the building. Some examples:
-
-<div class="gallery">
-    <figure >
-        <a class="modal-btn"><img src="/assets/graphics/images/building_security/secured_neiva_01.png"></a>
-        <figcaption> Example 1, Protection barrier.</figcaption>
-    </figure>
-    <figure >
-        <a class="modal-btn"><img src="/assets/graphics/images/building_security/secured_neiva_02.png"></a>
-        <figcaption> Example 2, Protection barrier.</figcaption>
-    </figure>
-</div>
-
-**Consider like not occluded**
-- When the fence does not cover all the building and it allows us to see the building. Some examples:
-
-<div class="gallery">
-    <figure >
-        <a class="modal-btn"><img src="/assets/graphics/images/building_security/secure_cartagena_neiva_01.png"></a>
-        <figcaption> Example 1, Protection barrier.</figcaption>
-    </figure>
-    <figure >
-        <a class="modal-btn"><img src="/assets/graphics/images/building_security/secure_cartagena_neiva_02.png"></a>
-        <figcaption> Example 2, Protection barrier.</figcaption>
     </figure>
 </div>

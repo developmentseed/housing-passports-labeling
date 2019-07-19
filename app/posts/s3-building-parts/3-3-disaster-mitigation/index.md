@@ -6,12 +6,9 @@ cities:
     - name: Bogota
       images:
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_bogota_01.jpg
-        - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_bogota_02.jpg
+        - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_bogota_02.png
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_bogota_03.jpg
-        - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_bogota_04.jpg
-        - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_bogota_05.jpg
-        - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_01.jpg
-        - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_02.jpg
+        - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_bogota_04.png
 ---
 Physical additions or construction techniques meant to prevent damage from disasters (e.g., a flood).
 <!-- ### Examples:
