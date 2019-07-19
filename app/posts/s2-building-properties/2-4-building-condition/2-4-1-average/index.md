@@ -26,7 +26,9 @@ cities:
     - name: Neiva
       images:
         - image_path: /assets/graphics/images/building_condition/average_neiva_01.png
+          title: 'Buildings that are not distinguished by barriers is considered average'
         - image_path: /assets/graphics/images/building_condition/average_neiva_02.png
+          title: 'Buildings that are not distinguished by barriers is considered average'
         - image_path: /assets/graphics/images/building_condition/average_neiva_03.png
         - image_path: /assets/graphics/images/building_condition/average_neiva_04.png
     - name: St Maarten
@@ -36,4 +38,6 @@ cities:
         - image_path: /assets/graphics/images/building_condition/average_st_maarten_03.png
         - image_path: /assets/graphics/images/building_condition/average_st_maarten_04.png
 ---
-Buildings in 'average' condition are somewhere between good and poor. Building exteriors might be dirty, poorly painted, or have some chipping/flaking paint. There may be some minor cracks in the walls.
+<p align="justify">
+Buildings in 'average' condition are somewhere between good and poor. Building exteriors might be dirty or poorly painted.
+</p>

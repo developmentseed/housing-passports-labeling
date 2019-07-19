@@ -36,4 +36,6 @@ cities:
         - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_st_maarten_01.png
           title: 'Corrugate metal'
 ---
-Buildings constructed with corrugated metal material. (e.g., zinc, tin, etc.).
+<p align="justify">
+Buildings constructed with corrugated metal material. (e.g., zinc, tin, etc.). Label with the material that you recognize even if it is painted.
+</p>

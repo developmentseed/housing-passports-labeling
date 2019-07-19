@@ -19,7 +19,7 @@ cities:
         - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/concrete_cartagena_01.png
           title: 'Concrete'
         - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_cartagena_02.png
-          title: 'Brick'
+          title: 'Concrete'
         - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/concrete_cartagena_03.png
           title: 'Concrete'
         - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_cartagena_04.png

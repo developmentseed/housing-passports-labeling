@@ -16,11 +16,9 @@ cities:
       <li>Mostly adobe and quincha construction, possibly some unreinforced masonry.</li>
       <li>Notable for several reasons:</li>
       <ul>
-          <li type="circle">Very high risk because of lack of reinforcing, even in 1 story.</li>
-          <li type="circle">Often thick walls with smaller windows.</li>
-          <li type="circle">Often ornate Art-Deco or Classical aesthetic details on façades.</li>
+          <li type="circle">Classical esthetic, often thick walls with smaller windows.</li>
+          <li type="circle">Often ornate Art-Deco or Classical aesthetic details on facades</li>
           <li type="circle">Tend to be 1 – 2 story maximum with some exceptions in large public buildings.</li>
-          <li type="circle">Often seen in groups or batches within a neighborhood (where there is 1 there are more, you can often date neighborhoods or whole blocks).</li>
         </ul> 
     </ul>
 </p>                 
