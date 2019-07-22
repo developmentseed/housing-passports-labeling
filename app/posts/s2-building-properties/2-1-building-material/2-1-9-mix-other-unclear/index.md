@@ -6,53 +6,53 @@ cities:
     - name: Bogota
       images:
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_bogota_01.jpg
-          title: 'Mix other unclear'
+          title: 'Plaster and brick'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_bogota_02.jpg
-          title: 'Mix other unclear'
+          title: 'Plaster, brick and concrete'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_bogota_03.jpg
-          title: 'Mix other unclear'
+          title: 'Plaster and brick'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_bogota_04.jpg
-          title: 'Mix other unclear'
+          title: 'Majolica and brick'
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_01.png
-          title: 'Mix other unclear: Concrete, brick, plaster'
+          title: 'Concrete, brick, plaster'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_02.png
-          title: 'Mix other unclear: Concrete, brick, adobe'
+          title: 'Concrete, brick, adobe'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_03.png
-          title: 'Mix other unclear: Plaster and wood'
+          title: 'Plaster and wood'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_04.png
-          title: 'Mix other unclear: Wood and metal'
+          title: 'Wood and metal'
     - name: Lima
       images:
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_01.png
-          title: 'Mix other unclear: Majolica'
+          title: 'Majolica'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_02.png
-          title: 'Mix other unclear: Unclear'
+          title: 'Unclear'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_03.png
-          title: 'Mix other unclear: Majolica, brick and concrete'
+          title: 'Majolica, brick and concrete'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_04.png
-          title: 'Mix other unclear: Plaster and concrete'
+          title: 'Plaster and brick'
     - name: Neiva
       images:
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_01.png
-          title: 'Mix other unclear'
+          title: 'Plaster and brick'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_02.png
-          title: 'Mix other unclear'
+          title: 'Plaster and wood'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_03.png
-          title: 'Mix other unclear'
+          title: 'Plaster and brick'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_04.png
-          title: 'Mix other unclear'
+          title: 'Plaster and majolica'
     - name: St Maarten
       images:
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_01.png
-          title: 'Mix other unclear'
+          title: 'Plaster and concrete'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_02.png
-          title: 'Mix other unclear'
+          title: 'Plaster and majolica'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_03.png
-          title: 'Mix other unclear'
+          title: 'Plaster and concrete'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_04.png
-          title: 'Mix other unclear'
+          title: 'Plaster and wood'
 ---
 <p align="justify">
 Buildings with multiple materials (e.g., first floor concrete, second brick), unclear materials, or other material not among those listed (e.g., majolica), we label the material as mix/other/unclear.

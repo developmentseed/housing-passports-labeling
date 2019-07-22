@@ -7,8 +7,11 @@ cities:
       images:
         - image_path: /assets/graphics/images/building_condition/average_bogota_01.jpg
         - image_path: /assets/graphics/images/building_condition/average_bogota_02.jpg
+          title: 'Dirty wall'
         - image_path: /assets/graphics/images/building_condition/average_bogota_03.jpg
+          title: 'Dirty wall'
         - image_path: /assets/graphics/images/building_condition/average_bogota_04.jpg
+          title: 'Dirty wall'
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_condition/average_cartagena_01.png

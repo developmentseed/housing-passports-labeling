@@ -16,7 +16,7 @@ cities:
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_security/secure_cartagena_01.png
-          title: 'Protection barrier.'
+          title: 'Barrier made of wood is considered secure.'
         - image_path: /assets/graphics/images/building_security/secure_cartagena_02.png
           title: 'Protection barrier.'
         - image_path: /assets/graphics/images/building_security/secure_cartagena_03.png
@@ -36,11 +36,11 @@ cities:
     - name: Neiva
       images:
         - image_path: /assets/graphics/images/building_security/secured_neiva_01.png
-          title: 'Protection barrier.'
+          title: 'Protection barrier made of wood.'
         - image_path: /assets/graphics/images/building_security/secured_neiva_02.png
           title: 'Protection barrier.'
         - image_path: /assets/graphics/images/building_security/secured_neiva_03.png
-          title: 'Protection barrier.'
+          title: 'Protection barrier made of wood.'
         - image_path: /assets/graphics/images/building_security/secured_neiva_04.png
           title: 'Protection barrier.'
     - name: St Maarten

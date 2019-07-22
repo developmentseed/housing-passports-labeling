@@ -31,7 +31,7 @@ cities:
         - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_lima_02.png
           title: 'Brick'
         - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_lima_03.png
-          title: 'Brick'
+          title: 'Considered brick over the painted'
         - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_lima_04.png
           title: 'Brick'
     - name: Neiva

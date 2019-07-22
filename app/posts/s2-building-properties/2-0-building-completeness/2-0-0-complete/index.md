@@ -9,13 +9,14 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/complete_bogota_02.jpg
         - image_path: /assets/graphics/images/building_completeness/complete_bogota_03.jpg
         - image_path: /assets/graphics/images/building_completeness/complete_bogota_04.jpg
+          title: 'Building with eternit roof is considered complete'
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_01.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_02.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_03.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_04.png
-          title: Buildings with corrugated metal roofs is considered complete.
+          title: 'Buildings with corrugated metal roofs is considered complete.'
     - name: Lima
       images:
         - image_path: /assets/graphics/images/building_completeness/complete_lima_01.png
@@ -26,10 +27,10 @@ cities:
     - name: Neiva
       images:
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_01.png
-          title: The building does not have good columns to keep adding more floors.
+          title: 'The building does not have good columns to keep adding more floors.'
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_02.png
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_03.png
-          title: Buildings with corrugated metal roofs is considered complete.
+          title: 'Buildings with corrugated metal roofs is considered complete.'
         - image_path: /assets/graphics/images/building_completeness/complete_neiva_04.png
     - name: St Maarten
       images:

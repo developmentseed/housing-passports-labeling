@@ -26,7 +26,6 @@ cities:
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_st_maarten_01.png
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_st_maarten_02.png
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_st_maarten_03.png
-        - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_st_maarten_04.png
 ---
 <p align="justify">
 Physical additions or construction techniques meant to prevent damage from disasters (e.g., a flood).

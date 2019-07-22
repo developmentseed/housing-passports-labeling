@@ -34,14 +34,15 @@ If the buildings are too far away, skip them because it will be hard to figure o
 <p align="justify">
 Here is an example where the buildings are too far away across a double highway:
 </p>
+
 <div class="gallery">
     <figure >
         <img src="/assets/graphics/content_blogs/far_away_1.png">
-        <figcaption> Example 1, Protection barrier.</figcaption>
+        <figcaption> Example 1.</figcaption>
     </figure>
     <figure >
         <img src="/assets/graphics/content_blogs/far_away_2.png">
-        <figcaption> Example 2, Protection barrier.</figcaption>
+        <figcaption> Example 2.</figcaption>
     </figure>
 </div>
 
@@ -68,19 +69,19 @@ When the fence or other objects cover 30% or all the building or building part. 
 <div class="gallery">
     <figure >
         <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_01.png"></a>
-        <figcaption> Example 1, occluded</figcaption>
+        <figcaption> Example 1, door occluded by pole</figcaption>
     </figure>
     <figure >
         <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_02.png"></a>
-        <figcaption> Example 2, occluded</figcaption>
+        <figcaption> Example 2, window occluded by tree</figcaption>
     </figure>
     <figure >
         <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_03.png"></a>
-        <figcaption> Example 3, occluded</figcaption>
+        <figcaption> Example 3, building occluded by cars</figcaption>
     </figure>
     <figure >
         <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_04.png"></a>
-        <figcaption> Example 4, occluded</figcaption>
+        <figcaption> Example 4, building occluded by tree</figcaption>  
     </figure>
 </div>
 
@@ -105,6 +106,25 @@ When the fence or other objects does not cover all the building or building part
 <p>
     When the car or other objects covers almost the entire building or building part and it is difficult to recognize where the building starts or ends. Some example:
 </p>
+
+<div class="gallery">
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/skip_01.png"></a>
+        <figcaption> Example 1</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/skip_02.png"></a>
+        <figcaption> Example 2</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/skip_03.png"></a>
+        <figcaption> Example 3</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/skip_04.png"></a>
+        <figcaption> Example 4</figcaption>  
+    </figure>
+</div>
 
 
 ### 4. Building openings

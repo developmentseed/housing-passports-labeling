@@ -14,6 +14,7 @@ cities:
         - image_path: /assets/graphics/images/window/window_cartagena_01.png
         - image_path: /assets/graphics/images/window/window_cartagena_02.png
         - image_path: /assets/graphics/images/window/window_cartagena_03.png
+          title: 'The window is almost filled but there are gaps that weaken the structure'
         - image_path: /assets/graphics/images/window/window_cartagena_04.png
     - name: Lima
       images:

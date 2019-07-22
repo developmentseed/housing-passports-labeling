@@ -6,9 +6,9 @@ cities:
     - name: Bogota
       images:
         - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_bogota_01.jpg
-          title: 'Corrugate metal'
+          title: 'Corrugate metal painted'
         - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_bogota_02.jpg
-          title: 'Corrugate metal'
+          title: 'Corrugate metal painted'
         - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_bogota_03.jpg
           title: 'Corrugate metal'
         - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_bogota_04.jpg

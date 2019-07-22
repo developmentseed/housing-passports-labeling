@@ -6,9 +6,11 @@ cities:
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_security/unsecured_cartagena_01.png
+          title: 'Building without barrier is considered unsecured.'
         - image_path: /assets/graphics/images/building_security/unsecured_cartagena_02.png
         - image_path: /assets/graphics/images/building_security/unsecured_cartagena_03.png
         - image_path: /assets/graphics/images/building_security/unsecured_cartagena_04.png
+          title: 'Incomplete barrier is considered unsecured'
     - name: Lima
       images:
         - image_path: /assets/graphics/images/building_security/unsecured_lima_01.png
