@@ -41,6 +41,6 @@ cities:
         - image_path: /assets/graphics/images/building_condition/average_st_maarten_03.png
         - image_path: /assets/graphics/images/building_condition/average_st_maarten_04.png
 ---
-<p align="justify">
+
 Buildings in 'average' condition are somewhere between good and poor. Building exteriors might be dirty or poorly painted.
-</p>
+

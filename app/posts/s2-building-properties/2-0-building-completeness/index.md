@@ -6,4 +6,3 @@ layout: post.html
 The building completeness options are: 
 - [Complete](../complete/)
 - [Incomplete](../incomplete/)
-

@@ -54,6 +54,6 @@ cities:
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_04.png
           title: 'Plaster and wood'
 ---
-<p align="justify">
+
 Buildings with multiple materials (e.g., first floor concrete, second brick), unclear materials, or other material not among those listed (e.g., majolica).
-</p>
+

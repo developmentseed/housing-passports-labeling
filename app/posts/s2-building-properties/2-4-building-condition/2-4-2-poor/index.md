@@ -49,6 +49,6 @@ cities:
           title: 'Peeling paint'
         - image_path: /assets/graphics/images/building_condition/poor_st_maarten_04.png
 ---
-<p align="justify">
+
 Buildings in 'poor' condition are not well maintained. They could have peeling/chipping/flaking paint, very dirty, have graffiti, unfinished, or cracked walls, or lots of exposed or unfinished brick work.
-</p>
+
