@@ -13,8 +13,6 @@ cities:
           title: 'Painted'
         - image_path: /assets/graphics/images/building_material/material_plaster/painted_bogota_04.jpg
           title: 'Painted'
-        - image_path: /assets/graphics/images/building_material/material_plaster/painted_bogota_05.jpg
-          title: 'Painted'
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_material/material_plaster/painted_cartagena_01.png
@@ -56,4 +54,6 @@ cities:
         - image_path: /assets/graphics/images/building_material/material_plaster/painted_st_maarten_04.png
           title: 'Painted'        
 ---
-Plaster buildings have white or painted plaster. It is often difficult to recognize the true building material.
+<p align="justify">
+Plaster buildings have white or painted plaster. It is often difficult to recognize the true building material, but if you can recognize the material, choose the material over the painted.
+</p>

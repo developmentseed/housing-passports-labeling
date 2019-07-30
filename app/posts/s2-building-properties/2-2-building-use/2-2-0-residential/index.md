@@ -13,8 +13,6 @@ cities:
           title: 'Residential'
         - image_path: /assets/graphics/images/building_use/residential_bogota_04.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_bogota_05.jpg
-          title: 'Residential'
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_use/residential_cartagena_01.png

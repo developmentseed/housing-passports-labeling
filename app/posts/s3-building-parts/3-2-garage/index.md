@@ -9,6 +9,29 @@ cities:
         - image_path: /assets/graphics/images/garage/garage_bogota_02.jpg
         - image_path: /assets/graphics/images/garage/garage_bogota_03.jpg
         - image_path: /assets/graphics/images/garage/garage_bogota_04.jpg
-        - image_path: /assets/graphics/images/garage/garage_bogota_05.jpg
+    - name: Cartagena
+      images:
+        - image_path: /assets/graphics/images/garage/garage_cartagena_01.png
+        - image_path: /assets/graphics/images/garage/garage_cartagena_02.png
+        - image_path: /assets/graphics/images/garage/garage_cartagena_03.png
+        - image_path: /assets/graphics/images/garage/garage_cartagena_04.png
+    - name: Lima
+      images:
+        - image_path: /assets/graphics/images/garage/garage_lima_01.png
+        - image_path: /assets/graphics/images/garage/garage_lima_02.png
+        - image_path: /assets/graphics/images/garage/garage_lima_03.png
+        - image_path: /assets/graphics/images/garage/garage_lima_04.png
+    - name: Neiva
+      images:
+        - image_path: /assets/graphics/images/garage/garage_neiva_01.png
+        - image_path: /assets/graphics/images/garage/garage_neiva_02.png
+        - image_path: /assets/graphics/images/garage/garage_neiva_03.png
+        - image_path: /assets/graphics/images/garage/garage_neiva_04.png
+    - name: St Maarten
+      images:
+        - image_path: /assets/graphics/images/garage/garage_st_maarten_01.png
+        - image_path: /assets/graphics/images/garage/garage_st_maarten_02.png
+        - image_path: /assets/graphics/images/garage/garage_st_maarten_03.png
+        - image_path: /assets/graphics/images/garage/garage_st_maarten_04.png
 ---
 Large opening on first floor of building (bigger than a standard-size door). These might be used for cars but they could also be openings into a mini-market or other large entry-way.
