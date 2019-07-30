@@ -54,6 +54,6 @@ cities:
         - image_path: /assets/graphics/images/building_security/secured_st_maarten_04.png
           title: 'Protection barrier.'
 ---
-<p align="justify">
+
 Secured buildings have a protective barrier/cage around them or a protective barrier over the building/wall to keep others out. The barrier could be of different material, for example, wood, metal, large wall, fence of barbwire, corrugated metal wall.
-</p>
+

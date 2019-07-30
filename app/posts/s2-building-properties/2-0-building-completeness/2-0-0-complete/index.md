@@ -39,6 +39,5 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_03.png
         - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_04.png
 ---
-<p align=justify>
+
 Complete construction means the owners finished with changes to the building structure. They do not want to incrementally add floors or other major structures on the existing building. Complete buildings will usually have a structure that can't be modified easily, a fixed or static roof, and no unfinished windows.
-</p>

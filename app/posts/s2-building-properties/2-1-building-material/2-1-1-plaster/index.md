@@ -54,6 +54,6 @@ cities:
         - image_path: /assets/graphics/images/building_material/material_plaster/painted_st_maarten_04.png
           title: 'Painted'        
 ---
-<p align="justify">
+
 Plaster buildings have white or painted plaster. It is often difficult to recognize the true building material, but if you can recognize the material, choose the material over the painted.
-</p>
+

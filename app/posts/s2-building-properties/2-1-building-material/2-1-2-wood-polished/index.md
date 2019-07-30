@@ -23,6 +23,6 @@ cities:
         - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_st_maarten_03.png
         - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_st_maarten_04.png
 ---
-<p align="justify">
+
 Building constructed with wood that looks finished and/or polished. If the woods are painted, choose the material over the painted.
-</p>
+

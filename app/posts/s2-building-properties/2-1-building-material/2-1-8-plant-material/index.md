@@ -8,4 +8,4 @@ cities:
         - image_path: /assets/graphics/images/building_material/plant_material/plant_neiva_01.png
 ---
 Buildings constructed with plant material (e.g., cane, mat, etc.)
-### Examples:
+
