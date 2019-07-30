@@ -9,18 +9,18 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/complete_bogota_02.jpg
         - image_path: /assets/graphics/images/building_completeness/complete_bogota_03.jpg
         - image_path: /assets/graphics/images/building_completeness/complete_bogota_04.jpg
-          title: 'Building with eternit roof is considered complete'
+          title: 'Building with eternit roof is considered as complete'
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_01.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_02.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_03.png
         - image_path: /assets/graphics/images/building_completeness/complete_cartagena_04.png
-          title: 'Buildings with corrugated metal roofs is considered complete.'
+          title: 'Buildings with corrugated metal roofs is considered as complete.'
     - name: Lima
       images:
         - image_path: /assets/graphics/images/building_completeness/complete_lima_01.png
-          title: 'Buildings that does not show the roof in the image is considered complete'
+          title: 'Buildings that does not show the roof in the image is considered as complete'
         - image_path: /assets/graphics/images/building_completeness/complete_lima_02.png
         - image_path: /assets/graphics/images/building_completeness/complete_lima_03.png
         - image_path: /assets/graphics/images/building_completeness/complete_lima_04.png

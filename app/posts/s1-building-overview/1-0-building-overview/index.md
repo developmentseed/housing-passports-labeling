@@ -45,7 +45,7 @@ When the car drove around corners, the images will stop showing one face of a bu
 
 ### 3. Images object block line of sight to a building
 
-When a car, tree, or other object is in front of a building, we should still label it if you can still see where a building starts or ends. Do your best to draw a good bbox, and then mark the building or building part with the “occluded” property within the CVAT labeling program. But if the car or other objects covers almost the entire building, it is better to skip this image. Do your best to draw a good bbox, and then mark the building with the “occluded” property within the CVAT labeling program.
+When a car, tree, or other object is in front of a building, we should still label it if you can still see where a building starts or ends. Do your best to draw a good bbox, and then mark the building or building part with the “occluded” property within the CVAT labeling program. But if the car or other objects covers almost the entire building, it is better to skip this image.
 
 ![image](/housing-passports-labeling/assets/graphics/content_blogs/images_object_block_line.png)
 
@@ -92,7 +92,7 @@ When the fence or other objects does not cover all the building or building part
 
 **Skip labeling:**
 
-When the car or other objects covers almost the entire building or building part and it is difficult to recognize where the building starts or ends. Some example:
+When the car or other objects covers almost the entire building or building part and it is difficult to recognize where the building starts or ends. e.g 👇
 
 <div class="gallery">
     <figure >
