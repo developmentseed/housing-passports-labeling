@@ -36,7 +36,7 @@
 
 
 
-<link rel="stylesheet" href="http://devseed.com/housing-passports-labeling/assets/styles/main-bf2f96cdce.css">
+<link rel="stylesheet" href="http://devseed.com/housing-passports-labeling/assets/styles/main-ebdb57daaa.css">
 
   </head>
   <body>
@@ -543,39 +543,113 @@
               <div class="inner">
                 <div class="prose prose--responsive">
                   <h2>Building labeling</h2>
-<p>When you area drawing a bounding box (bbox) around buildings:</p>
-<ol>
-<li>Make sure the bbox includes the entire building.</li>
-<li>Only draw the bbox around the front face (or façade) of the building. (This is helps when linking the streetview properties to the building footprint map).</li>
-<li>After drawing the bbox, check <em>all</em> building properties.</li>
-<li>If you start labeling buildings in an image, be sure to complete labeling the other buildings in the image.</li>
-</ol>
+<p align="justify">
+When you area drawing a bounding box (bbox) around buildings:
+</p>
+<p align="justify">
+    <ol align="justify">
+        <li>Make sure the bbox includes the entire building.</li>
+        <li>Only draw the bbox around the front face (or façade) of the building. (This is helps when linking the streetview properties to the building footprint map).</li>
+        <li>After drawing the bbox, check *all* building properties.</li>
+        <li>If you start labeling buildings in an image, be sure to complete labeling the other buildings in the image.</li>
+    </ol>
+</p>
 <h2>Repetitive or difficult labels</h2>
-<p>If there are multiple images in a row that are the same or very similar, it's okay to skip images. This may happen if the car was moving slowly when taking pictures or driving past a very similar scene (e.g., a field, forest, or very long building).</p>
-<p>If a building property is hard to label or you are not sure how to label it, open a ticket in <a href="https://github.com/developmentseed/housing-passports-labeling/issues/new"><code>housing-passports-labeling</code></a> and follow the pre-filled issue template. Be sure to tag a building expert in your ticket.</p>
+<p align="justify">
+If there are multiple images in a row that are the same or very similar, it's okay to skip images. This may happen if the car was moving slowly when taking pictures or driving past a very similar scene (e.g., a field, forest, or very long building).
+</p>
+<p align="justify">
+If a building property is hard to label or you are not sure how to label it, open a ticket in [`housing-passports-labeling`](https://github.com/developmentseed/housing-passports-labeling/issues/new) and follow the pre-filled issue template. Be sure to tag a building expert in your ticket.
+</p>
 <h2>Special cases</h2>
 <h3>1. Far away buildings</h3>
-<p>If the buildings are too far away, skip them because it will be hard to figure out all the properties. The cutoff distance should be about 10-15 meters, but use your judgement.</p>
-<p>Here is an example where the buildings are too far away across a double highway:</p>
+<p align="justify">
+If the buildings are too far away, skip them because it will be hard to figure out all the properties. The cutoff distance should be about 10-15 meters, but use your judgement. 
+</p>
+<p align="justify">
+Here is an example where the buildings are too far away across a double highway:
+</p>
 <div class="gallery">
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/content_blogs/far_away_1.png">
-        <figcaption> Example 1, Protection barrier.</figcaption>
+        <img src="/assets/graphics/content_blogs/far_away_1.png">
+        <figcaption> Example 1.</figcaption>
     </figure>
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/content_blogs/far_away_2.png">
-        <figcaption> Example 2, Protection barrier.</figcaption>
+        <img src="/assets/graphics/content_blogs/far_away_2.png">
+        <figcaption> Example 2.</figcaption>
     </figure>
 </div>
 <h3>2. Building corners</h3>
-<p>When the car drove around corners, the images will stop showing one face of a building and start showing another. In these cases, we should label only the images where the image contains a single face or façade, as you can see in the gif below:
-<img src="/housing-passports-labeling/assets/graphics/content_blogs/building_corners.gif" alt="corner" /></p>
+<p align="justify">
+When the car drove around corners, the images will stop showing one face of a building and start showing another. In these cases, we should label only the images where the image contains a single face or façade, as you can see in the gif below:
+</p>
+<p><img src="/assets/graphics/content_blogs/building_corners.gif" alt="corner" /></p>
 <h3>3. Images object block line of sight to a building</h3>
-<p>When a car, tree, or other object is in front of a building, we should still label it. Do your best to draw a good bbox, and then mark the building with the “occluded” property within the CVAT labeling program.
-<img src="/housing-passports-labeling/assets/graphics/content_blogs/images_object_block_line.png" alt="image" /></p>
+<p align="justify">
+When a car, tree, or other object is in front of a building, we should still label it if you can still see where a building starts or ends. Do your best to draw a good bbox, and then mark the building or building part with the “occluded” property within the CVAT labeling program. But if the car or other objects covers almost the entire building, it is better to skip this image. Do your best to draw a good bbox, and then mark the building with the “occluded” property within the CVAT labeling program.
+</p>
+<p><img src="/assets/graphics/content_blogs/images_object_block_line.png" alt="image" /></p>
+<h4>Some examples about consider occluded or not</h4>
+<p><strong>Consider like occluded</strong></p>
+<p>When the fence or other objects cover 30% or all the building or building part. Some examples:</p>
+<div class="gallery">
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_01.png"></a>
+        <figcaption> Example 1, door occluded by pole</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_02.png"></a>
+        <figcaption> Example 2, window occluded by tree</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_03.png"></a>
+        <figcaption> Example 3, building occluded by cars</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/occluded_04.png"></a>
+        <figcaption> Example 4, building occluded by tree</figcaption>  
+    </figure>
+</div>
+<p><strong>Consider like not occluded</strong></p>
+<p align="justify">
+When the fence or other objects does not cover all the building or building part and it allows us to see the building. Some examples:
+</p>
+<div class="gallery">
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/images/building_security/secure_cartagena_neiva_01.png"></a>
+        <figcaption> Example 1, Protection barrier.</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/images/building_security/secure_cartagena_neiva_02.png"></a>
+        <figcaption> Example 2, Protection barrier.</figcaption>
+    </figure>
+</div>
+<p><strong>Skip labeling:</strong></p>
+<p>
+    When the car or other objects covers almost the entire building or building part and it is difficult to recognize where the building starts or ends. Some example:
+</p>
+<div class="gallery">
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/skip_01.png"></a>
+        <figcaption> Example 1</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/skip_02.png"></a>
+        <figcaption> Example 2</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/skip_03.png"></a>
+        <figcaption> Example 3</figcaption>
+    </figure>
+    <figure >
+        <a class="modal-btn"><img src="/assets/graphics/content_blogs/skip_04.png"></a>
+        <figcaption> Example 4</figcaption>  
+    </figure>
+</div>
 <h3>4. Building openings</h3>
-<p>Only label building openings (windows, doors, garages) when those openings are part of a building. Openings that are part of a stand-alone wall should be skipped.</p>
-
+<p align="justify">
+Only label building openings (windows, doors, garages) when those openings are part of a building. Openings that are part of a stand-alone wall should be skipped.
+</p>
                   <!-- Display example images -->
 
 <!-- End display example images -->
