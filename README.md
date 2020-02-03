@@ -28,7 +28,7 @@ yarn install
 ## Start local server
 
 ```
-yarn run server
+yarn run serve
 ```
 
 the app will start at: http://localhost:3000/
