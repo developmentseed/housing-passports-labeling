@@ -6,26 +6,41 @@ cities:
     - name: Bogota
       images:
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_bogota_01.jpg
+          title: 'Disaster mitigation.'          
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_bogota_02.png
+          title: 'Disaster mitigation.'          
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_bogota_03.jpg
+          title: 'Disaster mitigation.'          
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_bogota_04.png
+          title: 'Disaster mitigation.'          
     - name: Cartagena
       images:
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_cartagena_01.png
+          title: 'Disaster mitigation.'          
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_cartagena_02.png
+          title: 'Disaster mitigation.'          
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_cartagena_03.png
+          title: 'Disaster mitigation.'          
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_cartagena_04.png
+          title: 'Disaster mitigation.'          
     - name: Neiva
       images:
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_neiva_01.png
+          title: 'Disaster mitigation.'          
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_neiva_02.png
+          title: 'Disaster mitigation.'          
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_neiva_03.png
+          title: 'Disaster mitigation.'          
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_neiva_04.png
+          title: 'Disaster mitigation.'          
     - name: St Maarten
       images:
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_st_maarten_01.png
+          title: 'Disaster mitigation.'          
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_st_maarten_02.png
+          title: 'Disaster mitigation.'          
         - image_path: /assets/graphics/images/disaster_mitigation/disaster_mitigation_st_maarten_03.png
+          title: 'Disaster mitigation.'          
 ---
 <p align="justify">
 Physical additions or construction techniques meant to prevent damage from disasters (e.g., a flood).

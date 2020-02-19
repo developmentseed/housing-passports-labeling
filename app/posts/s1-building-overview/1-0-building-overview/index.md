@@ -8,7 +8,7 @@ layout: post.html
 When drawing a bounding box (bbox) around buildings:
 
 - Make sure the bbox includes the entire building.
-- Only draw the bbox around the front face (or façade) of the building. (This is helps when linking the streetview properties to the building footprint map).
+- Only draw the bbox around the front face (or façade) of the building. (This is helps when linking the streetview properties to the building footprint map). Include the roof eave only if the material of construction is concrete, on other cases not include the roof eave in the bbox.
 - After drawing the bbox, check *all* building properties.
 - If you start labeling buildings in an image, be sure to complete labeling the other buildings in the image.
 
@@ -43,7 +43,15 @@ When the car drove around corners, the images will stop showing one face of a bu
 
 ![corner](/housing-passports-labeling/assets/graphics/content_blogs/building_corners.gif)
 
-### 3. Images object block line of sight to a building
+### 3. Images in which the building base is not seen
+
+When in the images the building base is not seen, only skip labeling the buildings. Example: There are barrier, wall or other objects in front of the building that covers the building base and you can't know where start to draw the bbox.
+
+![image](/housing-passports-labeling/assets/graphics/content_blogs/building_base_is_not_seen.png)
+
+### 4. Images object block line of sight to a building
+
+**Note:** `The occluded property within the CVAT labeling program was used only on the first projects for these cities: Bogota, Cartagena, Lima, Neiva, St. Maarten and Mexico cities, but in Padang we didn't use this property.` 
 
 When a car, tree, or other object is in front of a building, we should still label it if you can still see where a building starts or ends. Do your best to draw a good bbox, and then mark the building or building part with the “occluded” property within the CVAT labeling program. But if the car or other objects covers almost the entire building, it is better to skip this image.
 
@@ -113,6 +121,6 @@ When the car or other objects covers almost the entire building or building part
     </figure>
 </div>
 
-### 4. Building openings
+### 5. Building openings
 
 Only label building openings (windows, doors, garages) when those openings are part of a building. Openings that are part of a stand-alone wall should be skipped.

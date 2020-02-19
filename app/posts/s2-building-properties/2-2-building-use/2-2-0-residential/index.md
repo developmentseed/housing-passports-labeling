@@ -53,5 +53,15 @@ cities:
           title: 'Residential'
         - image_path: /assets/graphics/images/building_use/residential_st_maarten_04.png
           title: 'Residential'
+    - name: Padang
+      images:
+        - image_path: /assets/graphics/images/building_use/residential_padang_01.jpg
+          title: 'Residential'
+        - image_path: /assets/graphics/images/building_use/residential_padang_02.jpg
+          title: 'Residential'
+        - image_path: /assets/graphics/images/building_use/residential_padang_03.jpg
+          title: 'Residential'
+        - image_path: /assets/graphics/images/building_use/residential_padang_04.jpg
+          title: 'Residential'           
 ---
 When the building is used only for residential housing.

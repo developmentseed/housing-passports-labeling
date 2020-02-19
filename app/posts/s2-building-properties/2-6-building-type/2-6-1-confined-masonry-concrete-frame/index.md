@@ -5,10 +5,14 @@ layout: post.html
 cities:
     - name: Padang
       images:
-        - image_path: /assets/graphics/images/building_type/confined_masonry_01.jpg
-        - image_path: /assets/graphics/images/building_type/confined_masonry_02.jpg
-        - image_path: /assets/graphics/images/building_type/confined_masonry_03.jpg
-        - image_path: /assets/graphics/images/building_type/confined_masonry_04.jpg
+        - image_path: /assets/graphics/images/building_type/confined_masonry_padang_01.jpg
+          title: 'Confined masonry & concrete frame.'           
+        - image_path: /assets/graphics/images/building_type/confined_masonry_padang_02.jpg
+          title: 'Confined masonry & concrete frame.'          
+        - image_path: /assets/graphics/images/building_type/confined_masonry_padang_03.jpg
+          title: 'Confined masonry & concrete frame.'          
+        - image_path: /assets/graphics/images/building_type/confined_masonry_padang_04.jpg
+          title: 'Confined masonry & concrete frame.'          
 ---
 
 The confined masonry & concrete frame type is when the building construction has concrete columns and beams.

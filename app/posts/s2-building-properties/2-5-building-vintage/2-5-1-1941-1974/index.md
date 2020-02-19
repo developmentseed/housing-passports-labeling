@@ -6,9 +6,13 @@ cities:
     - name: Lima
       images:
         - image_path: /assets/graphics/images/building_vintage/1941_1974_01.png
+          title: '1941 - 1974.'           
         - image_path: /assets/graphics/images/building_vintage/1941_1974_02.png
+          title: '1941 - 1974.'           
         - image_path: /assets/graphics/images/building_vintage/1941_1974_03.png
+          title: '1941 - 1974.'           
         - image_path: /assets/graphics/images/building_vintage/1941_1974_04.png
+          title: '1941 - 1974.'           
 ---
 <p>
   <ul align="justify">
