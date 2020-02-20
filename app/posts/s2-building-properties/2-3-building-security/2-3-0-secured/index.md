@@ -15,43 +15,43 @@ cities:
           title: 'Protection barrier.'
     - name: Cartagena
       images:
-        - image_path: /assets/graphics/images/building_security/secure_cartagena_01.png
+        - image_path: /assets/graphics/images/building_security/secure_cartagena_01.jpg
           title: 'Barrier made of wood is considered secure.'
-        - image_path: /assets/graphics/images/building_security/secure_cartagena_02.png
+        - image_path: /assets/graphics/images/building_security/secure_cartagena_02.jpg
           title: 'Protection barrier.'
-        - image_path: /assets/graphics/images/building_security/secure_cartagena_03.png
+        - image_path: /assets/graphics/images/building_security/secure_cartagena_03.jpg
           title: 'Protection barrier.'
-        - image_path: /assets/graphics/images/building_security/secure_cartagena_04.png
+        - image_path: /assets/graphics/images/building_security/secure_cartagena_04.jpg
           title: 'Protection barrier.'
     - name: Lima
       images:
-        - image_path: /assets/graphics/images/building_security/secured_lima_01.png
+        - image_path: /assets/graphics/images/building_security/secured_lima_01.jpg
           title: 'Protection barrier.'
-        - image_path: /assets/graphics/images/building_security/secured_lima_02.png
+        - image_path: /assets/graphics/images/building_security/secured_lima_02.jpg
           title: 'Protection barrier.'
-        - image_path: /assets/graphics/images/building_security/secured_lima_03.png
+        - image_path: /assets/graphics/images/building_security/secured_lima_03.jpg
           title: 'Protection barrier.'
-        - image_path: /assets/graphics/images/building_security/secured_lima_04.png
+        - image_path: /assets/graphics/images/building_security/secured_lima_04.jpg
           title: 'Protection barrier.'
     - name: Neiva
       images:
-        - image_path: /assets/graphics/images/building_security/secured_neiva_01.png
+        - image_path: /assets/graphics/images/building_security/secured_neiva_01.jpg
           title: 'Protection barrier made of wood.'
-        - image_path: /assets/graphics/images/building_security/secured_neiva_02.png
+        - image_path: /assets/graphics/images/building_security/secured_neiva_02.jpg
           title: 'Protection barrier.'
-        - image_path: /assets/graphics/images/building_security/secured_neiva_03.png
+        - image_path: /assets/graphics/images/building_security/secured_neiva_03.jpg
           title: 'Protection barrier made of wood.'
-        - image_path: /assets/graphics/images/building_security/secured_neiva_04.png
+        - image_path: /assets/graphics/images/building_security/secured_neiva_04.jpg
           title: 'Protection barrier.'
     - name: St Maarten
       images:
-        - image_path: /assets/graphics/images/building_security/secured_st_maarten_01.png
+        - image_path: /assets/graphics/images/building_security/secured_st_maarten_01.jpg
           title: 'Protection barrier.'
-        - image_path: /assets/graphics/images/building_security/secured_st_maarten_02.png
+        - image_path: /assets/graphics/images/building_security/secured_st_maarten_02.jpg
           title: 'Protection barrier.'
-        - image_path: /assets/graphics/images/building_security/secured_st_maarten_03.png
+        - image_path: /assets/graphics/images/building_security/secured_st_maarten_03.jpg
           title: 'Protection barrier.'
-        - image_path: /assets/graphics/images/building_security/secured_st_maarten_04.png
+        - image_path: /assets/graphics/images/building_security/secured_st_maarten_04.jpg
           title: 'Protection barrier.'
 ---
 

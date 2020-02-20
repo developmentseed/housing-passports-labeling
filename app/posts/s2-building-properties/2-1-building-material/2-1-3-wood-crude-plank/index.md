@@ -11,21 +11,21 @@ cities:
           title: 'Wood - crude/plank.'          
     - name: Cartagena
       images:
-        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_01.png
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_01.jpg
           title: 'Wood - crude/plank.'          
-        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_02.png
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_02.jpg
           title: 'Wood - crude/plank.'          
-        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_03.png
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_03.jpg
           title: 'Wood - crude/plank.'          
-        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_04.png
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude-plank_cartagena_04.jpg
           title: 'Wood - crude/plank.'          
     - name: Neiva
       images:
-        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_neiva_01.png
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_neiva_01.jpg
           title: 'Wood - crude/plank.'          
     - name: St Maarten
       images:
-        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_st_maarten_01.png
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_st_maarten_01.jpg
           title: 'Wood - crude/plank.'          
     - name: Padang
       images:

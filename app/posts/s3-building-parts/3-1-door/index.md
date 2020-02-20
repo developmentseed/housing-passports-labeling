@@ -15,43 +15,43 @@ cities:
           title: 'Door.'        
     - name: Cartagena
       images:
-        - image_path: /assets/graphics/images/door/door_cartagena_01.png
+        - image_path: /assets/graphics/images/door/door_cartagena_01.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_cartagena_02.png
+        - image_path: /assets/graphics/images/door/door_cartagena_02.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_cartagena_03.png
+        - image_path: /assets/graphics/images/door/door_cartagena_03.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_cartagena_04.png
+        - image_path: /assets/graphics/images/door/door_cartagena_04.jpg
           title: 'Doors.'        
     - name: Lima
       images:
-        - image_path: /assets/graphics/images/door/door_lima_01.png
+        - image_path: /assets/graphics/images/door/door_lima_01.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_lima_02.png
+        - image_path: /assets/graphics/images/door/door_lima_02.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_lima_03.png
+        - image_path: /assets/graphics/images/door/door_lima_03.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_lima_04.png
+        - image_path: /assets/graphics/images/door/door_lima_04.jpg
           title: 'Doors.'        
     - name: Neiva
       images:
-        - image_path: /assets/graphics/images/door/door_neiva_01.png
+        - image_path: /assets/graphics/images/door/door_neiva_01.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_neiva_02.png
+        - image_path: /assets/graphics/images/door/door_neiva_02.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_neiva_03.png
+        - image_path: /assets/graphics/images/door/door_neiva_03.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_neiva_04.png
+        - image_path: /assets/graphics/images/door/door_neiva_04.jpg
           title: 'Doors.'        
     - name: St Maarten
       images:
-        - image_path: /assets/graphics/images/door/door_st_maarten_01.png
+        - image_path: /assets/graphics/images/door/door_st_maarten_01.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_st_maarten_02.png
+        - image_path: /assets/graphics/images/door/door_st_maarten_02.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_st_maarten_03.png
+        - image_path: /assets/graphics/images/door/door_st_maarten_03.jpg
           title: 'Doors.'        
-        - image_path: /assets/graphics/images/door/door_st_maarten_04.png
+        - image_path: /assets/graphics/images/door/door_st_maarten_04.jpg
           title: 'Doors.'        
 ---
 <p align="justify">

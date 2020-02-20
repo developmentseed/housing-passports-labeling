@@ -15,43 +15,43 @@ cities:
           title: 'Majolica and brick.'
     - name: Cartagena
       images:
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_01.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_01.jpg
           title: 'Concrete, brick, plaster.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_02.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_02.jpg
           title: 'Concrete, brick, adobe.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_03.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_03.jpg
           title: 'Plaster and wood.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_04.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_cartagena_04.jpg
           title: 'Wood and metal.'
     - name: Lima
       images:
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_01.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_01.jpg
           title: 'Majolica.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_02.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_02.jpg
           title: 'Unclear.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_03.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_03.jpg
           title: 'Majolica, brick and concrete.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_04.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_lima_04.jpg
           title: 'Plaster and brick.'
     - name: Neiva
       images:
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_01.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_01.jpg
           title: 'Plaster and brick.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_02.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_02.jpg
           title: 'Plaster and wood.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_03.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_03.jpg
           title: 'Plaster and brick.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_04.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_neiva_04.jpg
           title: 'Plaster and majolica.'
     - name: St Maarten
       images:
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_01.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_01.jpg
           title: 'Plaster and concrete.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_02.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_02.jpg
           title: 'Plaster and majolica.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_03.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_03.jpg
           title: 'Plaster and concrete.'
-        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_04.png
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_st_maarten_04.jpg
           title: 'Plaster and wood.'
     - name: Padang
       images:

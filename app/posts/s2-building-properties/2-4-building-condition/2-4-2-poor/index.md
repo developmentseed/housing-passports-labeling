@@ -15,43 +15,43 @@ cities:
           title: 'Poor.'           
     - name: Cartagena
       images:
-        - image_path: /assets/graphics/images/building_condition/poor_cartagena_01.png
+        - image_path: /assets/graphics/images/building_condition/poor_cartagena_01.jpg
           title: 'Peeling paint is considered poor.'
-        - image_path: /assets/graphics/images/building_condition/poor_cartagena_02.png
+        - image_path: /assets/graphics/images/building_condition/poor_cartagena_02.jpg
           title: 'Peeling paint is considered poor.'
-        - image_path: /assets/graphics/images/building_condition/poor_cartagena_03.png
+        - image_path: /assets/graphics/images/building_condition/poor_cartagena_03.jpg
           title: 'Peeling paint is considered poor.'
-        - image_path: /assets/graphics/images/building_condition/poor_cartagena_04.png
+        - image_path: /assets/graphics/images/building_condition/poor_cartagena_04.jpg
           title: 'Peeling paint is considered poor.'
     - name: Lima
       images:
-        - image_path: /assets/graphics/images/building_condition/poor_lima_01.png
+        - image_path: /assets/graphics/images/building_condition/poor_lima_01.jpg
           title: 'Buildings with graffiti is considered poor.'
-        - image_path: /assets/graphics/images/building_condition/poor_lima_02.png
+        - image_path: /assets/graphics/images/building_condition/poor_lima_02.jpg
           title: 'Incomplete painting is considered poor.'
-        - image_path: /assets/graphics/images/building_condition/poor_lima_03.png
+        - image_path: /assets/graphics/images/building_condition/poor_lima_03.jpg
           title: 'Buildings with graffiti is considered poor.'
-        - image_path: /assets/graphics/images/building_condition/poor_lima_04.png
+        - image_path: /assets/graphics/images/building_condition/poor_lima_04.jpg
           title: 'Poor.'           
     - name: Neiva
       images:
-        - image_path: /assets/graphics/images/building_condition/poor_neiva_01.png
+        - image_path: /assets/graphics/images/building_condition/poor_neiva_01.jpg
           title: 'Poor.'           
-        - image_path: /assets/graphics/images/building_condition/poor_neiva_02.png
+        - image_path: /assets/graphics/images/building_condition/poor_neiva_02.jpg
           title: 'Peeling paint is considered poor.'
-        - image_path: /assets/graphics/images/building_condition/poor_neiva_03.png
+        - image_path: /assets/graphics/images/building_condition/poor_neiva_03.jpg
           title: 'Peeling paint is considered poor.'
-        - image_path: /assets/graphics/images/building_condition/poor_neiva_04.png  
+        - image_path: /assets/graphics/images/building_condition/poor_neiva_04.jpg  
           title: 'Poor.'                 
     - name: St Maarten
       images:
-        - image_path: /assets/graphics/images/building_condition/poor_st_maarten_01.png
+        - image_path: /assets/graphics/images/building_condition/poor_st_maarten_01.jpg
           title: 'Peeling paint is considered poor.'
-        - image_path: /assets/graphics/images/building_condition/poor_st_maarten_02.png 
+        - image_path: /assets/graphics/images/building_condition/poor_st_maarten_02.jpg 
           title: 'Peeling paint is considered poor.'  
-        - image_path: /assets/graphics/images/building_condition/poor_st_maarten_03.png
+        - image_path: /assets/graphics/images/building_condition/poor_st_maarten_03.jpg
           title: 'Peeling paint is considered poor.'
-        - image_path: /assets/graphics/images/building_condition/poor_st_maarten_04.png
+        - image_path: /assets/graphics/images/building_condition/poor_st_maarten_04.jpg
           title: 'Poor.'           
     - name: Padang
       images:

@@ -15,43 +15,43 @@ cities:
           title: 'Building with eternit roof is considered as complete.'        
     - name: Cartagena
       images:
-        - image_path: /assets/graphics/images/building_completeness/complete_cartagena_01.png
+        - image_path: /assets/graphics/images/building_completeness/complete_cartagena_01.jpg
           title: 'Complete.'        
-        - image_path: /assets/graphics/images/building_completeness/complete_cartagena_02.png
+        - image_path: /assets/graphics/images/building_completeness/complete_cartagena_02.jpg
           title: 'Complete.'        
-        - image_path: /assets/graphics/images/building_completeness/complete_cartagena_03.png
+        - image_path: /assets/graphics/images/building_completeness/complete_cartagena_03.jpg
           title: 'Complete.'        
-        - image_path: /assets/graphics/images/building_completeness/complete_cartagena_04.png
+        - image_path: /assets/graphics/images/building_completeness/complete_cartagena_04.jpg
           title: 'Buildings with corrugated metal roofs is considered as complete.'
     - name: Lima
       images:
-        - image_path: /assets/graphics/images/building_completeness/complete_lima_01.png
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_01.jpg
           title: 'Buildings that does not show the roof in the image is considered as complete.'
-        - image_path: /assets/graphics/images/building_completeness/complete_lima_02.png
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_02.jpg
           title: 'Complete.'        
-        - image_path: /assets/graphics/images/building_completeness/complete_lima_03.png
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_03.jpg
           title: 'Complete.'        
-        - image_path: /assets/graphics/images/building_completeness/complete_lima_04.png
+        - image_path: /assets/graphics/images/building_completeness/complete_lima_04.jpg
           title: 'Complete.'        
     - name: Neiva
       images:
-        - image_path: /assets/graphics/images/building_completeness/complete_neiva_01.png
+        - image_path: /assets/graphics/images/building_completeness/complete_neiva_01.jpg
           title: 'Building does not have good columns to keep adding more floors.'
-        - image_path: /assets/graphics/images/building_completeness/complete_neiva_02.png
+        - image_path: /assets/graphics/images/building_completeness/complete_neiva_02.jpg
           title: 'Complete.'        
-        - image_path: /assets/graphics/images/building_completeness/complete_neiva_03.png
+        - image_path: /assets/graphics/images/building_completeness/complete_neiva_03.jpg
           title: 'Buildings with corrugated metal walls is considered complete.'
-        - image_path: /assets/graphics/images/building_completeness/complete_neiva_04.png
+        - image_path: /assets/graphics/images/building_completeness/complete_neiva_04.jpg
           title: 'Complete.'        
     - name: St Maarten
       images:
-        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_01.png
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_01.jpg
           title: 'Complete.'        
-        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_02.png
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_02.jpg
           title: 'Complete.'        
-        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_03.png
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_03.jpg
           title: 'Complete.'        
-        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_04.png
+        - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_04.jpg
           title: 'Complete.'        
     - name: Padang
       images:
