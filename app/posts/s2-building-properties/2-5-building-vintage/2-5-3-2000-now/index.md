@@ -6,9 +6,13 @@ cities:
     - name: Lima
       images:
         - image_path: /assets/graphics/images/building_vintage/2000_now_01.png
+          title: '2000 - now.'          
         - image_path: /assets/graphics/images/building_vintage/2000_now_02.png
+          title: '2000 - now.'           
         - image_path: /assets/graphics/images/building_vintage/2000_now_03.png
+          title: '2000 - now.'           
         - image_path: /assets/graphics/images/building_vintage/2000_now_04.png
+          title: '2000 - now.'           
 ---
 <p>
     <ul align="justify">

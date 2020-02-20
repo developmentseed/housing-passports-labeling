@@ -6,9 +6,13 @@ cities:
   - name: Lima
     images:
       - image_path: /assets/graphics/images/building_vintage/pre_1940_01.png
+        title: 'Pre - 1940.'          
       - image_path: /assets/graphics/images/building_vintage/pre_1940_02.png
+        title: 'Pre - 1940.'         
       - image_path: /assets/graphics/images/building_vintage/pre_1940_03.png
+        title: 'Pre - 1940.'         
       - image_path: /assets/graphics/images/building_vintage/pre_1940_04.png
+        title: 'Pre - 1940.'         
 ---
 
 <p>
