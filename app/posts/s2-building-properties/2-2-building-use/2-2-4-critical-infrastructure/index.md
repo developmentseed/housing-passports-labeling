@@ -19,4 +19,4 @@ cities:
           title: 'Critical infrastructure: Bank.'                 
 ---
 
-When the building is used for public purposes as education, government, public services, health care, religion, and banks.
+The use of critical infrastructure is when a building is used for public purposes as education, government, public services, health care, religion, banks or other public infrastructures
