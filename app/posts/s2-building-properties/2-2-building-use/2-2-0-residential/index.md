@@ -15,43 +15,43 @@ cities:
           title: 'Residential'
     - name: Cartagena
       images:
-        - image_path: /assets/graphics/images/building_use/residential_cartagena_01.png
+        - image_path: /assets/graphics/images/building_use/residential_cartagena_01.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_cartagena_02.png
+        - image_path: /assets/graphics/images/building_use/residential_cartagena_02.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_cartagena_03.png
+        - image_path: /assets/graphics/images/building_use/residential_cartagena_03.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_cartagena_04.png
+        - image_path: /assets/graphics/images/building_use/residential_cartagena_04.jpg
           title: 'Residential'
     - name: Lima
       images:
-        - image_path: /assets/graphics/images/building_use/residential_lima_01.png
+        - image_path: /assets/graphics/images/building_use/residential_lima_01.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_lima_02.png
+        - image_path: /assets/graphics/images/building_use/residential_lima_02.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_lima_03.png
+        - image_path: /assets/graphics/images/building_use/residential_lima_03.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_lima_04.png
+        - image_path: /assets/graphics/images/building_use/residential_lima_04.jpg
           title: 'Residential'
     - name: Neiva
       images:
-        - image_path: /assets/graphics/images/building_use/residential_neiva_01.png
+        - image_path: /assets/graphics/images/building_use/residential_neiva_01.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_neiva_02.png
+        - image_path: /assets/graphics/images/building_use/residential_neiva_02.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_neiva_03.png
+        - image_path: /assets/graphics/images/building_use/residential_neiva_03.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_neiva_04.png
+        - image_path: /assets/graphics/images/building_use/residential_neiva_04.jpg
           title: 'Residential'
     - name: St Maarten
       images:
-        - image_path: /assets/graphics/images/building_use/residential_st_maarten_01.png
+        - image_path: /assets/graphics/images/building_use/residential_st_maarten_01.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_st_maarten_02.png
+        - image_path: /assets/graphics/images/building_use/residential_st_maarten_02.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_st_maarten_03.png
+        - image_path: /assets/graphics/images/building_use/residential_st_maarten_03.jpg
           title: 'Residential'
-        - image_path: /assets/graphics/images/building_use/residential_st_maarten_04.png
+        - image_path: /assets/graphics/images/building_use/residential_st_maarten_04.jpg
           title: 'Residential'
     - name: Padang
       images:

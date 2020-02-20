@@ -15,43 +15,43 @@ cities:
           title: 'Mixed: Same building has both a mini-market and residential area.'
     - name: Cartagena
       images:
-        - image_path: /assets/graphics/images/building_use/mixed_cartagena_01.png
+        - image_path: /assets/graphics/images/building_use/mixed_cartagena_01.jpg
           title: 'Mixed: Same building has both a mini-market and residential area.'
-        - image_path: /assets/graphics/images/building_use/mixed_cartagena_02.png
+        - image_path: /assets/graphics/images/building_use/mixed_cartagena_02.jpg
           title: 'Mixed: 1st floor comercial and 2nd floor to live.'
-        - image_path: /assets/graphics/images/building_use/mixed_cartagena_03.png
+        - image_path: /assets/graphics/images/building_use/mixed_cartagena_03.jpg
           title: 'Mixed: 1st floor comercial and 2nd floor to live.'
-        - image_path: /assets/graphics/images/building_use/mixed_cartagena_04.png
+        - image_path: /assets/graphics/images/building_use/mixed_cartagena_04.jpg
           title: 'Mixed: 1st floor comercial and 2nd floor to live.'
     - name: Lima
       images:
-        - image_path: /assets/graphics/images/building_use/mixed_lima_01.png
+        - image_path: /assets/graphics/images/building_use/mixed_lima_01.jpg
           title: 'Mixed: 1st floor comercial and 2nd floor to live.'
-        - image_path: /assets/graphics/images/building_use/mixed_lima_02.png
+        - image_path: /assets/graphics/images/building_use/mixed_lima_02.jpg
           title: 'Mixed: 1st floor comercial and the other floors to live.'
-        - image_path: /assets/graphics/images/building_use/mixed_lima_03.png
+        - image_path: /assets/graphics/images/building_use/mixed_lima_03.jpg
           title: 'Mixed: 1st floor comercial and the other floors to live.'
-        - image_path: /assets/graphics/images/building_use/mixed_lima_04.png
+        - image_path: /assets/graphics/images/building_use/mixed_lima_04.jpg
           title: 'Mixed: 1st floor comercial and the other floors to live.'
     - name: Neiva
       images:
-        - image_path: /assets/graphics/images/building_use/mixed_neiva_01.png
+        - image_path: /assets/graphics/images/building_use/mixed_neiva_01.jpg
           title: 'Mixed: 1st floor comercial and 2nd floor to live.'
-        - image_path: /assets/graphics/images/building_use/mixed_neiva_02.png
+        - image_path: /assets/graphics/images/building_use/mixed_neiva_02.jpg
           title: 'Mixed: 1st floor comercial and 2nd floor to live.'
-        - image_path: /assets/graphics/images/building_use/mixed_neiva_03.png
+        - image_path: /assets/graphics/images/building_use/mixed_neiva_03.jpg
           title: 'Mixed: 1st floor comercial and 2nd floor to live.'
-        - image_path: /assets/graphics/images/building_use/mixed_neiva_04.png
+        - image_path: /assets/graphics/images/building_use/mixed_neiva_04.jpg
           title: 'Mixed: 1st floor comercial and 2nd floor to live.'
     - name: St Maarten
       images:
-        - image_path: /assets/graphics/images/building_use/mixed_st_maarten_01.png
+        - image_path: /assets/graphics/images/building_use/mixed_st_maarten_01.jpg
           title: 'Mixed: 1st floor comercial public and the other floors to live.'
-        - image_path: /assets/graphics/images/building_use/mixed_st_maarten_02.png
+        - image_path: /assets/graphics/images/building_use/mixed_st_maarten_02.jpg
           title: 'Mixed: 1st floor comercial and 2nd floor to live.'
-        - image_path: /assets/graphics/images/building_use/mixed_st_maarten_03.png
+        - image_path: /assets/graphics/images/building_use/mixed_st_maarten_03.jpg
           title: 'Mixed: 1st floor comercial and 2nd floor to live.'
-        - image_path: /assets/graphics/images/building_use/mixed_st_maarten_04.png
+        - image_path: /assets/graphics/images/building_use/mixed_st_maarten_04.jpg
           title: 'Mixed: 1st floor comercial and 2nd floor to live.'
     - name: Padang
       images:

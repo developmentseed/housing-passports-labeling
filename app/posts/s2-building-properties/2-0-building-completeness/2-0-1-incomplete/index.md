@@ -15,43 +15,43 @@ cities:
           title: 'The owners intend to keep building up.'
     - name: Cartagena
       images:
-        - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_01.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_01.jpg
           title: 'Provisional corrugated metal wall is considered incomplete.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_02.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_02.jpg
           title: '2nd and 3th floor incomplete.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_03.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_03.jpg
           title: '2nd floor incomplete.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_04.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_04.jpg
           title: 'door and windows incomplete.'
     - name: Lima
       images:
-        - image_path: /assets/graphics/images/building_completeness/incomplete_lima_01.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_lima_01.jpg
           title: 'Wooden building on the 2nd floor is considered incomplete.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_lima_02.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_lima_02.jpg
           title: 'Wooden building on the 2nd floor is considered incomplete.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_lima_03.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_lima_03.jpg
           title: 'Incomplete roof.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_lima_04.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_lima_04.jpg
           title: 'Building with incomplete windows is considered incomplete.'
     - name: Neiva
       images:
-        - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_01.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_01.jpg
           title: 'Roof and windows incomplete.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_02.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_02.jpg
           title: '2nd floor incomplete.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_03.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_03.jpg
           title: 'Building in construction is considered incomplete.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_04.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_04.jpg
           title: 'Incomplete roof.'
     - name: St Maarten
       images:
-        - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_01.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_01.jpg
           title: 'Roof and windows incomplete.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_02.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_02.jpg
           title: 'Window and house column incomplete.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_03.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_03.jpg
           title: 'Building in construction is considered incomplete.'
-        - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_04.png
+        - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_04.jpg
           title: 'Windows and the third floor incomplete.'
     - name: Padang
       images:

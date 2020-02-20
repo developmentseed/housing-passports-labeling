@@ -5,13 +5,13 @@ layout: post.html
 cities:
   - name: Lima
     images:
-      - image_path: /assets/graphics/images/building_vintage/pre_1940_01.png
+      - image_path: /assets/graphics/images/building_vintage/pre_1940_01.jpg
         title: 'Pre - 1940.'          
-      - image_path: /assets/graphics/images/building_vintage/pre_1940_02.png
+      - image_path: /assets/graphics/images/building_vintage/pre_1940_02.jpg
         title: 'Pre - 1940.'         
-      - image_path: /assets/graphics/images/building_vintage/pre_1940_03.png
+      - image_path: /assets/graphics/images/building_vintage/pre_1940_03.jpg
         title: 'Pre - 1940.'         
-      - image_path: /assets/graphics/images/building_vintage/pre_1940_04.png
+      - image_path: /assets/graphics/images/building_vintage/pre_1940_04.jpg
         title: 'Pre - 1940.'         
 ---
 

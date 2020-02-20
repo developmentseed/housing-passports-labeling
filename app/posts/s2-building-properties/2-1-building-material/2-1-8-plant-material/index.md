@@ -5,7 +5,7 @@ layout: post.html
 cities:
     - name: Neiva
       images:
-        - image_path: /assets/graphics/images/building_material/plant_material/plant_neiva_01.png
+        - image_path: /assets/graphics/images/building_material/plant_material/plant_neiva_01.jpg
           title: 'Plant material.'             
     - name: Padang
       images:

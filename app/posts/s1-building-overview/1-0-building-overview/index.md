@@ -28,11 +28,11 @@ Here is an example where the buildings are too far away across a double highway:
 
 <div class="gallery">
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/content_blogs/far_away_1.png">
+        <img src="/housing-passports-labeling/assets/graphics/content_blogs/far_away_1.jpg">
         <figcaption> Example 1.</figcaption>
     </figure>
     <figure >
-        <img src="/housing-passports-labeling/assets/graphics/content_blogs/far_away_2.png">
+        <img src="/housing-passports-labeling/assets/graphics/content_blogs/far_away_2.jpg">
         <figcaption> Example 2.</figcaption>
     </figure>
 </div>
@@ -47,7 +47,7 @@ When the car drove around corners, the images will stop showing one face of a bu
 
 When in the images the building base is not seen, only skip labeling the buildings. Example: There are barrier, wall or other objects in front of the building that covers the building base and you can't know where start to draw the bbox.
 
-![image](/housing-passports-labeling/assets/graphics/content_blogs/building_base_is_not_seen.png)
+![image](/housing-passports-labeling/assets/graphics/content_blogs/building_base_is_not_seen.jpg)
 
 ### 4. Images object block line of sight to a building
 
@@ -55,7 +55,7 @@ When in the images the building base is not seen, only skip labeling the buildin
 
 When a car, tree, or other object is in front of a building, we should still label it if you can still see where a building starts or ends. Do your best to draw a good bbox, and then mark the building or building part with the “occluded” property within the CVAT labeling program. But if the car or other objects covers almost the entire building, it is better to skip this image.
 
-![image](/housing-passports-labeling/assets/graphics/content_blogs/images_object_block_line.png)
+![image](/housing-passports-labeling/assets/graphics/content_blogs/images_object_block_line.jpg)
 
 #### Some examples about consider occluded or not
 
@@ -65,19 +65,19 @@ When a fence or other objects cover 30% or all the building or building part. e.
 
 <div class="gallery">
     <figure >
-        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/occluded_01.png"></a>
+        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/occluded_01.jpg"></a>
         <figcaption> Example 1, door occluded by pole</figcaption>
     </figure>
     <figure >
-        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/occluded_02.png"></a>
+        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/occluded_02.jpg"></a>
         <figcaption> Example 2, window occluded by tree</figcaption>
     </figure>
     <figure >
-        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/occluded_03.png"></a>
+        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/occluded_03.jpg"></a>
         <figcaption> Example 3, building occluded by cars</figcaption>
     </figure>
     <figure >
-        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/occluded_04.png"></a>
+        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/occluded_04.jpg"></a>
         <figcaption> Example 4, building occluded by tree</figcaption>  
     </figure>
 </div>
@@ -89,11 +89,11 @@ When the fence or other objects does not cover all the building or building part
 
 <div class="gallery">
     <figure >
-        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_neiva_01.png"></a>
+        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_neiva_01.jpg"></a>
         <figcaption> Example 1, Protection barrier.</figcaption>
     </figure>
     <figure >
-        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_neiva_02.png"></a>
+        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_neiva_02.jpg"></a>
         <figcaption> Example 2, Protection barrier.</figcaption>
     </figure>
 </div>
@@ -104,19 +104,19 @@ When the car or other objects covers almost the entire building or building part
 
 <div class="gallery">
     <figure >
-        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/skip_01.png"></a>
+        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/skip_01.jpg"></a>
         <figcaption> Example 1</figcaption>
     </figure>
     <figure >
-        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/skip_02.png"></a>
+        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/skip_02.jpg"></a>
         <figcaption> Example 2</figcaption>
     </figure>
     <figure >
-        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/skip_03.png"></a>
+        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/skip_03.jpg"></a>
         <figcaption> Example 3</figcaption>
     </figure>
     <figure >
-        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/skip_04.png"></a>
+        <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/content_blogs/skip_04.jpg"></a>
         <figcaption> Example 4</figcaption>  
     </figure>
 </div>

@@ -5,13 +5,13 @@ layout: post.html
 cities:
     - name: Lima
       images:
-        - image_path: /assets/graphics/images/building_vintage/2000_now_01.png
+        - image_path: /assets/graphics/images/building_vintage/2000_now_01.jpg
           title: '2000 - now.'          
-        - image_path: /assets/graphics/images/building_vintage/2000_now_02.png
+        - image_path: /assets/graphics/images/building_vintage/2000_now_02.jpg
           title: '2000 - now.'           
-        - image_path: /assets/graphics/images/building_vintage/2000_now_03.png
+        - image_path: /assets/graphics/images/building_vintage/2000_now_03.jpg
           title: '2000 - now.'           
-        - image_path: /assets/graphics/images/building_vintage/2000_now_04.png
+        - image_path: /assets/graphics/images/building_vintage/2000_now_04.jpg
           title: '2000 - now.'           
 ---
 <p>

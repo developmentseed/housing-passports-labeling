@@ -15,25 +15,25 @@ cities:
           title: 'Corrugated metal.'            
     - name: Cartagena
       images:
-        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_cartagena_01.png
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_cartagena_01.jpg
           title: 'Corrugated metal.'            
-        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_cartagena_02.png
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_cartagena_02.jpg
           title: 'Corrugated metal.'            
-        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_cartagena_03.png
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_cartagena_03.jpg
           title: 'Corrugated metal.'            
     - name: Neiva
       images:
-        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_neiva_01.png
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_neiva_01.jpg
           title: 'Painted corrugated metal.'            
-        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_neiva_02.png
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_neiva_02.jpg
           title: 'Corrugated metal.'            
-        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_neiva_03.png
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_neiva_03.jpg
           title: 'Corrugated metal.'            
-        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_neiva_04.png
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_neiva_04.jpg
           title: 'Corrugated metal.'            
     - name: St Maarten
       images:
-        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_st_maarten_01.png
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_st_maarten_01.jpg
           title: 'Corrugated metal.'            
     - name: Padang
       images:
