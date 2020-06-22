@@ -8,10 +8,6 @@ cities:
         - image_path: /assets/graphics/images/building_material/adobe/adobe_cartagena_01.jpg
           title: 'Adobe.'          
         - image_path: /assets/graphics/images/building_material/adobe/adobe_cartagena_02.jpg
-          title: 'Adobe.'  
-        - image_path: /assets/graphics/images/building_material/adobe/adobe_cartagena_03.jpg
-          title: 'Adobe.'          
-        - image_path: /assets/graphics/images/building_material/adobe/adobe_cartagena_04.jpg
           title: 'Adobe.'          
     - name: Neiva
       images:
