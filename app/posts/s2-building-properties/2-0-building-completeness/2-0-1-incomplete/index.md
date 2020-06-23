@@ -20,9 +20,9 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_02.jpg
           title: '2nd and 3th floor incomplete.'
         - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_03.jpg
-          title: '2nd floor incomplete.'
+          title: 'If the roof is corrugated metal, the building is considered as incomplete.'
         - image_path: /assets/graphics/images/building_completeness/incomplete_cartagena_04.jpg
-          title: 'door and windows incomplete.'
+          title: 'If the roof is corrugated metal, the building is considered as incomplete.'
     - name: Lima
       images:
         - image_path: /assets/graphics/images/building_completeness/incomplete_lima_01.jpg
@@ -40,9 +40,9 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_02.jpg
           title: '2nd floor incomplete.'
         - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_03.jpg
-          title: 'Building in construction is considered incomplete.'
+          title: 'If the roof is corrugated metal, the building is considered as incomplete.'
         - image_path: /assets/graphics/images/building_completeness/incomplete_neiva_04.jpg
-          title: 'Incomplete roof.'
+          title: 'If the roof is corrugated metal, the building is considered as incomplete.'
     - name: St Maarten
       images:
         - image_path: /assets/graphics/images/building_completeness/incomplete_st_maarten_01.jpg
@@ -60,9 +60,11 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/incomplete_padang_02.jpg
           title: 'Second floor without windows and the third floor in construction.'
         - image_path: /assets/graphics/images/building_completeness/incomplete_padang_03.jpg
-          title: 'Building in construction is considered incomplete.'
+          title: 'Corrugated metal as roof, wood/corrugated metal as walls, the building is considered as incomplete.'
         - image_path: /assets/graphics/images/building_completeness/incomplete_padang_04.jpg
-          title: 'Wooden building on the 2nd floor is considered incomplete.'          
+          title: 'Corrugated metal as roof, wood/corrugated metal as walls, the building is considered as incomplete.'        
 ---
 
 Incomplete construction means it appears that the owners intend to keep building up. Often, this occurs when they want to incrementally add on floors to the building. Common signs of incremental building include temporary roofs or exposed rebar that's sticking up.
+
+On the other hand, a building should also be considered incomplete when the materials that were used in the building construction are temporary/transitory for instance corrugated metal as roof, wood/corrugated metal as walls.
