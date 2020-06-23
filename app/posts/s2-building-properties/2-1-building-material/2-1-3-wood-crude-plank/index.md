@@ -41,7 +41,7 @@ cities:
           title: 'Wood - crude/plank.'          
         - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_padang_04.jpg  
           title: 'Wood - crude/plank.'     
-    - name: 
+    - name: Other cities 
       images:
         - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_01.jpg   
           title: 'Wood - crude/plank.'          
