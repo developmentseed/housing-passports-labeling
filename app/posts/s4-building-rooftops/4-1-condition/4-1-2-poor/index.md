@@ -6,13 +6,13 @@ cities:
     - name: Lima
       images:
         - image_path: /assets/graphics/images/rooftop_condition/poor_lima_01.jpg
-          title: 'Those rooftops are considered poor.'
+          title: 'The condition of these rooftops is considered poor.'
         - image_path: /assets/graphics/images/rooftop_condition/poor_lima_02.jpg
-          title: 'Those rooftops are considered poor.'
+          title: 'Poor.'
         - image_path: /assets/graphics/images/rooftop_condition/poor_lima_03.jpg
-          title: 'This rooftop is considered poor.'       
+          title: 'Poor.'       
         - image_path: /assets/graphics/images/rooftop_condition/poor_lima_04.jpg
-          title: 'This rooftop is considered poor.'                    
+          title: 'Poor.'                    
 ---
 Rooftops in 'poor' condition are those that are in a poor way.
 

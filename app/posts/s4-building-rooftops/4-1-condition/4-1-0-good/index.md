@@ -6,7 +6,7 @@ cities:
     - name: Lima
       images:
         - image_path: /assets/graphics/images/rooftop_condition/good_lima_01.jpg
-          title: 'Good.'            
+          title: 'The condition of these rooftops is considered good.'            
         - image_path: /assets/graphics/images/rooftop_condition/good_lima_02.jpg
           title: 'Good.'          
         - image_path: /assets/graphics/images/rooftop_condition/good_lima_03.jpg

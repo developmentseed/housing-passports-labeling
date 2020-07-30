@@ -16,10 +16,8 @@ cities:
         - image_path: /assets/graphics/images/rooftop_material/metal_lima_05.jpg
           title: 'Metal.'            
         - image_path: /assets/graphics/images/rooftop_material/metal_lima_06.jpg
-          title: 'Metal.'  
+          title: 'The material of these rooftops is considered metal.'  
         - image_path: /assets/graphics/images/rooftop_material/metal_lima_07.jpg
-          title: 'Metal.'   
-        - image_path: /assets/graphics/images/rooftop_material/metal_lima_08.jpg
-          title: 'Metal.'                                                
+          title: 'Metal.'                                                  
 ---
 When the rooftop material is metal.
