@@ -8,11 +8,11 @@ cities:
         - image_path: /assets/graphics/images/rooftop_material/concrete_lima_01.jpg
           title: 'Concrete.'
         - image_path: /assets/graphics/images/rooftop_material/concrete_lima_02.jpg
-          title: 'Concrete.'   
+          title: 'The material of these rooftops is considered concrete.'   
         - image_path: /assets/graphics/images/rooftop_material/concrete_lima_03.jpg
           title: 'Concrete.'
         - image_path: /assets/graphics/images/rooftop_material/concrete_lima_04.jpg
-          title: 'Concrete.'             
+          title: 'The material of these rooftops is considered concrete.'             
 ---
 When the rooftop material is concrete.
 

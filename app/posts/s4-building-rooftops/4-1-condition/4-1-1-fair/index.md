@@ -12,7 +12,7 @@ cities:
         - image_path: /assets/graphics/images/rooftop_condition/fair_lima_03.jpg
           title: 'Fair.'      
         - image_path: /assets/graphics/images/rooftop_condition/fair_lima_04.jpg
-          title: 'Rooftop condition as fair and rooftop material as concrete.'                                     
+          title: 'Rooftops condition: fair and rooftops material: concrete.'                                     
 ---
 Rooftops in 'fair' condition are those that are in a fair way.
 
