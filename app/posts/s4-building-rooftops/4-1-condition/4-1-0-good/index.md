@@ -14,4 +14,4 @@ cities:
         - image_path: /assets/graphics/images/rooftop_condition/good_lima_04.jpg
           title: 'Good.'                                     
 ---
-Rooftops in 'good' condition are those that are new or in a good way.
+Rooftops in 'Good' condition appear new, have no signs of wear and tear, and appear well constructed.

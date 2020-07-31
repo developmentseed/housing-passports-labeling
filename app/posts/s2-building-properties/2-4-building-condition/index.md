@@ -6,5 +6,5 @@ layout: post.html
 
 The building condition options are:
 - [Good](../good/)
-- [Average](../average/)
+- [Fair](../fair/)
 - [Poor](../poor/)
