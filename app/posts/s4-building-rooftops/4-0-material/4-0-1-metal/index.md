@@ -21,3 +21,6 @@ cities:
           title: 'Metal.'                                                  
 ---
 When the rooftop material is metal.
+
+**Note:**
+- We use the metal category when the metal dominates the rooftop – makes up between 70-90% metal.

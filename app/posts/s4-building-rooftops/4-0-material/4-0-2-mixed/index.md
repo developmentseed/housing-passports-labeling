@@ -14,4 +14,4 @@ cities:
         - image_path: /assets/graphics/images/rooftop_material/mixed_lima_04.jpg
           title: 'Mixed.'              
 ---
-When the rooftop is constructed by different materials.
+When the rooftop is constructed by different materials (typically the roof has less than 50% concrete).

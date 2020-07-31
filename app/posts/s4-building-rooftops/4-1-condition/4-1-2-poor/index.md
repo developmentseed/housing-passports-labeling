@@ -14,7 +14,7 @@ cities:
         - image_path: /assets/graphics/images/rooftop_condition/poor_lima_04.jpg
           title: 'Poor.'                    
 ---
-Rooftops in 'poor' condition are those that are in a poor way.
+Rooftops in ‘Poor’ condition are those that appear to be precarious, dilapidated, poorly constructed. Often rooftops in this category have metal sheets placed on top but not securely tied down, objects to hold down the roof, gaps or holes, or signs extensive patching.
 
 **Tips:**
 

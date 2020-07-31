@@ -16,3 +16,6 @@ cities:
 ---
 When the rooftop material is concrete.
 
+**Note:**
+- We use the concrete category when the concrete makes up  at least 50% of the rooftop
+
