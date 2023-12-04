@@ -45,6 +45,16 @@ cities:
           title: 'Corrugated metal.'            
         - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_padang_04.jpg
           title: 'Painted corrugated metal.'        
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_dominica_01.jpg
+          title: 'Corrugated metal.'            
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_dominica_02.jpg
+          title: 'Corrugated metal.'            
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_dominica_03.jpg
+          title: 'Corrugated metal.'            
+        - image_path: /assets/graphics/images/building_material/corrugated_metal/metal_dominica_04.jpg
+          title: 'Painted corrugated metal.'  
 ---
 
 Buildings constructed with corrugated metal material. (e.g., zinc, tin, etc.). If the corrugated metal are painted, choose the material over the painted.

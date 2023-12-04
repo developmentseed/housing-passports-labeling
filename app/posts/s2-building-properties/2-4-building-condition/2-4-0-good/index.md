@@ -63,5 +63,15 @@ cities:
           title: 'Good.'          
         - image_path: /assets/graphics/images/building_condition/good_padang_04.jpg         
           title: 'Good.'            
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_condition/good_dominica_01.jpg
+          title: 'Good.'          
+        - image_path: /assets/graphics/images/building_condition/good_dominica_02.jpg  
+          title: 'Good.'          
+        - image_path: /assets/graphics/images/building_condition/good_dominica_03.jpg
+          title: 'Good.'          
+        - image_path: /assets/graphics/images/building_condition/good_dominica_04.jpg         
+          title: 'Good.'    
 ---
 Buildings in 'good' condition are taken care of by the owners. Signs may include fresh paint, sturdy-looking structure, landscaping, flowers, etc.

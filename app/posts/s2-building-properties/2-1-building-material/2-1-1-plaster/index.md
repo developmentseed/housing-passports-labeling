@@ -62,7 +62,17 @@ cities:
         - image_path: /assets/graphics/images/building_material/plaster/painted_padang_03.jpg
           title: 'Painted'
         - image_path: /assets/graphics/images/building_material/plaster/painted_padang_04.jpg
-          title: 'Painted'              
+          title: 'Painted'    
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_material/plaster/painted_dominica_01.jpg
+          title: 'Painted'
+        - image_path: /assets/graphics/images/building_material/plaster/painted_dominica_02.jpg
+          title: 'Painted'
+        - image_path: /assets/graphics/images/building_material/plaster/painted_dominica_03.jpg
+          title: 'Painted'
+        - image_path: /assets/graphics/images/building_material/plaster/painted_dominica_04.jpg
+          title: 'Painted'                         
 ---
 
 Plaster buildings have white or painted plaster. It is often difficult to recognize the true building material, but if you can recognize the material, choose the material over the painted.

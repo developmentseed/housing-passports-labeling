@@ -62,7 +62,17 @@ cities:
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_padang_03.jpg
           title: 'Brick and corrugated metal.'
         - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_padang_04.jpg
-          title: 'Plaster and majolica.'          
+          title: 'Plaster and majolica.'        
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_dominica_01.jpg
+          title: 'Wood and plaster.'
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_dominica_02.jpg
+          title: 'Stone and plaster.'
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_dominica_03.jpg
+          title: 'Stone and brick.'
+        - image_path: /assets/graphics/images/building_material/mix-other-unclear/mix_other_unclear_dominica_04.jpg
+          title: 'Wood, brick and other.'              
 ---
 
 Buildings with multiple materials (e.g., first floor concrete, second brick), unclear materials, or other material not among those listed (e.g., majolica).

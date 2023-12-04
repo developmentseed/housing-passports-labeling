@@ -62,6 +62,16 @@ cities:
         - image_path: /assets/graphics/images/building_use/residential_padang_03.jpg
           title: 'Residential'
         - image_path: /assets/graphics/images/building_use/residential_padang_04.jpg
-          title: 'Residential'           
+          title: 'Residential'       
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_use/residential_dominica_01.jpg
+          title: 'Residential'
+        - image_path: /assets/graphics/images/building_use/residential_dominica_02.jpg
+          title: 'Residential'
+        - image_path: /assets/graphics/images/building_use/residential_dominica_03.jpg
+          title: 'Residential'
+        - image_path: /assets/graphics/images/building_use/residential_dominica_04.jpg
+          title: 'Residential'                  
 ---
 When the building is used only for residential housing.

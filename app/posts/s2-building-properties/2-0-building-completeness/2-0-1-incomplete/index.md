@@ -62,7 +62,17 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/incomplete_padang_03.jpg
           title: 'Corrugated metal as roof, wood/corrugated metal as walls, the building is considered as incomplete.'
         - image_path: /assets/graphics/images/building_completeness/incomplete_padang_04.jpg
-          title: 'Corrugated metal as roof, wood/corrugated metal as walls, the building is considered as incomplete.'        
+          title: 'Corrugated metal as roof, wood/corrugated metal as walls, the building is considered as incomplete.'  
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_completeness/incomplete_dominica_01.jpg
+          title: 'A building with exposed column irons on the building roof is considered incomplete.'
+        - image_path: /assets/graphics/images/building_completeness/incomplete_dominica_02.jpg
+          title: 'A building without roof is considered incomplete.'
+        - image_path: /assets/graphics/images/building_completeness/incomplete_dominica_03.jpg
+          title: 'Corrugated metal as roof, the building is considered incomplete.'
+        - image_path: /assets/graphics/images/building_completeness/incomplete_dominica_04.jpg
+          title: 'Incomplete.'              
 ---
 
 Incomplete construction means it appears that the owners intend to keep building up. Often, this occurs when they want to incrementally add on floors to the building. Common signs of incremental building include temporary roofs or exposed rebar that's sticking up.

@@ -42,6 +42,16 @@ cities:
         - image_path: /assets/graphics/images/building_security/unsecured_st_maarten_03.jpg
           title: 'Unsecured.'            
         - image_path: /assets/graphics/images/building_security/unsecured_st_maarten_04.jpg
+          title: 'Unsecured.' 
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_security/unsecured_dominica_01.jpg
           title: 'Unsecured.'            
+        - image_path: /assets/graphics/images/building_security/unsecured_dominica_02.jpg
+          title: 'Unsecured.'            
+        - image_path: /assets/graphics/images/building_security/unsecured_dominica_03.jpg
+          title: 'Unsecured.'            
+        - image_path: /assets/graphics/images/building_security/unsecured_dominica_04.jpg
+          title: 'Unsecured.'                       
 ---
 Unsecured buildings do not have a protective barrier.
