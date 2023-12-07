@@ -36,7 +36,7 @@
 
 
 
-<link rel="stylesheet" href="http://devseed.com/housing-passports-labeling/assets/styles/main-284ac5e022.css">
+<link rel="stylesheet" href="http://devseed.com/housing-passports-labeling/assets/styles/main-11eabd2957.css">
 
   </head>
   <body>
@@ -61,7 +61,7 @@
 
   
   <section class="ppn__section">
-    <h3 class="ppn__section-title">Introduction</h3>
+    <h3 class="ppn__section-title">Overview</h3>
     
 
 
@@ -79,12 +79,22 @@
 
     </li>
     
+    <li id="/overview/summary-of-labeled-classes/">
+        
+        <a href="http://devseed.com/housing-passports-labeling/overview/summary-of-labeled-classes" title="Go to page" class="ppn__menu-item ">Summary of labeled classes</a>
+        
+
+
+
+
+    </li>
+    
   </ul>
 
   </section>
   
   <section class="ppn__section">
-    <h3 class="ppn__section-title">Building overview</h3>
+    <h3 class="ppn__section-title">Labeling overview</h3>
     
 
 
@@ -92,9 +102,19 @@
 
   <ul class="ppn__menu">
     
-    <li id="/building-overview/building-overview/">
+    <li id="/labeling-overview/computer-vision-annotation-tool-cvat/">
         
-        <a href="http://devseed.com/housing-passports-labeling/building-overview/building-overview" title="Go to page" class="ppn__menu-item ppn__menu-item--active">Building overview</a>
+        <a href="http://devseed.com/housing-passports-labeling/labeling-overview/computer-vision-annotation-tool-cvat" title="Go to page" class="ppn__menu-item ">Computer Vision Annotation Tool (CVAT)</a>
+        
+
+
+
+
+    </li>
+    
+    <li id="/labeling-overview/labeling-guide/">
+        
+        <a href="http://devseed.com/housing-passports-labeling/labeling-overview/labeling-guide" title="Go to page" class="ppn__menu-item ppn__menu-item--active">Labeling guide</a>
         
 
 
@@ -727,8 +747,8 @@
               <div class="inner">
                 
                 <div class="inpage__headline">
-                  <p class="inpage__subtitle">Building overview</p>
-                  <h1 class="inpage__title">Building overview</h1>
+                  <p class="inpage__subtitle">Labeling overview</p>
+                  <h1 class="inpage__title">Labeling guide</h1>
                 </div>
 
               </div>
@@ -745,6 +765,15 @@
 <li>After drawing the bbox, check <em>all</em> building properties.</li>
 <li>If you start labeling buildings in an image, be sure to complete labeling the other buildings in the image.</li>
 </ul>
+<p><strong>Note:</strong></p>
+<p>The bounding box covers only the building facade since it contains all the information needed to label the building features, which is why the ML team decided to focus on labeling and detecting the building facade.</p>
+<p>For this reason, the annotation team looks for buildings that meet the following criteria:</p>
+<ol>
+<li>Prominent buildings that occupy 60-70% of the imagery and have their facade visible.</li>
+<li>Buildings that are at an angle of approximately 75 to 105 degrees (perpendicular) to the camera's capture angle.</li>
+</ol>
+<p>This approach is helpful when matching building properties to building polygons in the post-processing step.</p>
+<p><img src="/housing-passports-labeling/assets/graphics/content_blogs/cvat_building_labeling.mp4" alt="cvat_building_labeling" /></p>
 <h2>Repetitive or difficult labels</h2>
 <p>If there are multiple images in a row that are the same or very similar, it's okay to skip images. This may happen if the car was moving slowly when taking pictures or driving past a very similar scene (e.g., a field, forest, or very long building).</p>
 <p>If a building property is hard to label or you are not sure how to label it, open a ticket in <a href="https://github.com/developmentseed/housing-passports-labeling/issues/new"><code>housing-passports-labeling</code></a> and follow the pre-filled issue template. Be sure to tag a building expert in your ticket.</p>
@@ -768,6 +797,20 @@
 <h3>3. Images in which the building base is not seen</h3>
 <p>When in the images the building base is not seen, only skip labeling the buildings. Example: There are barrier, wall or other objects in front of the building that covers the building base and you can't know where start to draw the bbox.</p>
 <p><img src="/housing-passports-labeling/assets/graphics/content_blogs/building_base_is_not_seen.jpg" alt="image" /></p>
+<p><strong>Exceptional case:</strong></p>
+<ol>
+<li>For DOMINICA City: Given that the majority of street view images collected in Dominica lack visibility of the base of buildings, a decision was made to incorporate into the annotation process those buildings whose bases are not directly observable. In such cases, annotations were made by estimating the bases through a careful examination of surrounding buildings or, when necessary, by relying on the annotator's best judgment to determine the likely location of the building bases.</li>
+</ol>
+<div class="gallery">
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/content_blogs/label_building_base_is_not_seen_1.jpg">
+        <figcaption> Example 1.</figcaption>
+    </figure>
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/content_blogs/label_building_base_is_not_seen_2.jpg">
+        <figcaption> Example 2.</figcaption>
+    </figure>
+</div>
 <h3>4. Images object block line of sight to a building</h3>
 <p><strong>Note:</strong> <code>The occluded property within the CVAT labeling program was used only on the first projects for these cities: Bogota, Cartagena, Lima, Neiva, St. Maarten and Mexico cities, but in Padang we didn't use this property.</code></p>
 <p>When a car, tree, or other object is in front of a building, we should still label it if you can still see where a building starts or ends. Do your best to draw a good bbox, and then mark the building or building part with the “occluded” property within the CVAT labeling program. But if the car or other objects covers almost the entire building, it is better to skip this image.</p>
@@ -841,7 +884,7 @@
                   <ul>
                     <li>
                       
-                        <a href="http://devseed.com/housing-passports-labeling/" class="pa-prev" title="View previous post"><span>Prev</span></a>
+                        <a href="http://devseed.com/housing-passports-labeling/labeling-overview/computer-vision-annotation-tool-cvat" class="pa-prev" title="View previous post"><span>Prev</span></a>
                       
                     </li>
                     <li>
@@ -865,7 +908,7 @@
             <a href="https://developmentseed.org" title="Visit Development Seed website">
               <span><img src="http://devseed.com/housing-passports-labeling/assets/graphics/layout/devseed-logo-symbol.svg" alt="Development Seed logo symbol" width="512" height="152" /></span>
               <strong>Development Seed</strong>
-              <small>2020</small>
+              <small>2023</small>
             </a>
           </p>
         </div>
@@ -881,6 +924,6 @@
 </div>
     <script src="http://devseed.com/housing-passports-labeling/assets/scripts/vendor-2fa80a543b.js"></script>
 
-<script src="http://devseed.com/housing-passports-labeling/assets/scripts/bundle-61b570b9bc.js"></script>
+<script src="http://devseed.com/housing-passports-labeling/assets/scripts/bundle-ee4b130a89.js"></script>
   </body>
 </html>

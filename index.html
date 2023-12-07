@@ -36,7 +36,7 @@
 
 
 
-<link rel="stylesheet" href="http://devseed.com/housing-passports-labeling/assets/styles/main-284ac5e022.css">
+<link rel="stylesheet" href="http://devseed.com/housing-passports-labeling/assets/styles/main-11eabd2957.css">
 
   </head>
   <body>
@@ -61,7 +61,7 @@
 
   
   <section class="ppn__section">
-    <h3 class="ppn__section-title">Introduction</h3>
+    <h3 class="ppn__section-title">Overview</h3>
     
 
 
@@ -79,12 +79,22 @@
 
     </li>
     
+    <li id="/overview/summary-of-labeled-classes/">
+        
+        <a href="http://devseed.com/housing-passports-labeling/overview/summary-of-labeled-classes" title="Go to page" class="ppn__menu-item ">Summary of labeled classes</a>
+        
+
+
+
+
+    </li>
+    
   </ul>
 
   </section>
   
   <section class="ppn__section">
-    <h3 class="ppn__section-title">Building overview</h3>
+    <h3 class="ppn__section-title">Labeling overview</h3>
     
 
 
@@ -92,9 +102,19 @@
 
   <ul class="ppn__menu">
     
-    <li id="/building-overview/building-overview/">
+    <li id="/labeling-overview/computer-vision-annotation-tool-cvat/">
         
-        <a href="http://devseed.com/housing-passports-labeling/building-overview/building-overview" title="Go to page" class="ppn__menu-item ">Building overview</a>
+        <a href="http://devseed.com/housing-passports-labeling/labeling-overview/computer-vision-annotation-tool-cvat" title="Go to page" class="ppn__menu-item ">Computer Vision Annotation Tool (CVAT)</a>
+        
+
+
+
+
+    </li>
+    
+    <li id="/labeling-overview/labeling-guide/">
+        
+        <a href="http://devseed.com/housing-passports-labeling/labeling-overview/labeling-guide" title="Go to page" class="ppn__menu-item ">Labeling guide</a>
         
 
 
@@ -727,7 +747,7 @@
               <div class="inner">
                 
                 <div class="inpage__headline">
-                  <p class="inpage__subtitle">Introduction</p>
+                  <p class="inpage__subtitle">Overview</p>
                   <h1 class="inpage__title">Introduction</h1>
                 </div>
 
@@ -737,31 +757,9 @@
             <div class="inpage__body">
               <div class="inner">
                 <div class="prose prose--responsive">
-                  <p>This guide describes how to label street view images with building properties and parts. It focuses on how to find and label feature that are relevant when assessing a building's resiliency.</p>
-<p>The features we want to label are all listed in the left navigation panel. There is a description and example images for each. They labeling is roughly broken up into building properties (material, completeness, vintage, etc.) and building parts (windows, doors, garages, etc.).</p>
-<h2>Computer Vision Annotation Tool (CVAT)</h2>
-<p>We're using the CVAT labeling platform to perform the annotations. The <a href="https://github.com/opencv/cvat">CVAT</a> tools have extensively documented the annotation process. See their tool's <a href="https://github.com/opencv/cvat/blob/develop/README.md">readme guide</a> or their <a href="https://www.youtube.com/watch?v=L9_IvUIHGwM&amp;feature=youtu.be">youtube video</a>.</p>
-<h2>CVAT Tips</h2>
-<ul>
-<li>
-<p>Each task should only have one annotator working on it at a time. If 2 or more annotators are working on the same task, there might be problems with labels getting overwritten.</p>
-</li>
-<li>
-<p>To expose all of the CVAT buttons/tools in the bottom pane, you may want to zoom out one level in your browser. Here's an example of how to do this in Google Chrome.</p>
-</li>
-</ul>
-<p><img src="/housing-passports-labeling/assets/graphics/content_blogs/cvat_tips1.gif" alt="cvat_chrome_" /></p>
-<ul>
-<li>In the CVAT tool you can use shortcuts, for instance:
-<ul>
-<li>&quot;N&quot; --&gt; create a shape</li>
-<li>&quot;F&quot; --&gt; move to the next image</li>
-<li>&quot;D&quot; --&gt; move to the previous image or</li>
-<li>&quot;CTRL + S&quot; --&gt; save the work</li>
-</ul>
-</li>
-</ul>
-<p>Also, you can find the full shortcuts in this <a href="https://github.com/opencv/cvat/blob/develop/cvat/apps/documentation/user_guide.md#shortcuts">web page.</a></p>
+                  <p>This labeling guide outlines the process of finding and labeling feature that are relevant when assessing a building's resiliency.
+The classes for labeling are categorized into two groups: building properties and building parts, which are further subdivided into different clases that have been adjusted according to the city were the projects was run.</p>
+<p>To have a better overview of the classes and cities we worked on, you can take a look at the <a href="http://localhost:3000/overview/summary-of-labeled-classes/">summary of labeled classes</a> page. Aditionally, in the left navigation panel, there is a description and example images for each class by city.</p>
 
                   <!-- Display example images -->
 
@@ -781,7 +779,7 @@
                     </li>
                     <li>
                       
-                        <a href="http://devseed.com/housing-passports-labeling/building-overview/building-overview" class="pa-next" title="View next post"><span>Next</span></a>
+                        <a href="http://devseed.com/housing-passports-labeling/overview/summary-of-labeled-classes" class="pa-next" title="View next post"><span>Next</span></a>
                       
                     </li>
                   </ul>
@@ -800,7 +798,7 @@
             <a href="https://developmentseed.org" title="Visit Development Seed website">
               <span><img src="http://devseed.com/housing-passports-labeling/assets/graphics/layout/devseed-logo-symbol.svg" alt="Development Seed logo symbol" width="512" height="152" /></span>
               <strong>Development Seed</strong>
-              <small>2020</small>
+              <small>2023</small>
             </a>
           </p>
         </div>
@@ -816,6 +814,6 @@
 </div>
     <script src="http://devseed.com/housing-passports-labeling/assets/scripts/vendor-2fa80a543b.js"></script>
 
-<script src="http://devseed.com/housing-passports-labeling/assets/scripts/bundle-61b570b9bc.js"></script>
+<script src="http://devseed.com/housing-passports-labeling/assets/scripts/bundle-ee4b130a89.js"></script>
   </body>
 </html>
