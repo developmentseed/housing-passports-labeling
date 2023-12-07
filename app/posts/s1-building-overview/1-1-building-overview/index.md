@@ -22,7 +22,7 @@ For this reason, the annotation team looks for buildings that meet the following
 
 This approach is helpful when matching building properties to building polygons in the post-processing step.
 
-![cvat_building_labeling](/housing-passports-labeling/assets/graphics/content_blogs/cvat_building_labeling.mp4)
+![cvat_building_labeling](/housing-passports-labeling/assets/graphics/content_blogs/cvat_building_labeling.gif)
 
 ## Repetitive or difficult labels
 
