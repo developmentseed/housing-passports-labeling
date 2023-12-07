@@ -6,6 +6,8 @@ layout: post.html
 
 This page provides a summary of the labeled classes and the cities involved in the Housing Passport project. 
 
+Thus far, we have worked with a total of 7 classes. However, the selection of classes for annotation has been contingent upon the unique characteristics of each city in which our work has been conducted.
+
 The tables below provide a breakdown of building property classes, building parts classes, and classes for rooftops labeling, along with the cities where have been done the labeling.
 
 ## Building properties
@@ -17,34 +19,43 @@ The tables below provide a breakdown of building property classes, building part
         <th style="width: 25%;">City</th>
 	</tr>
 	<tr>
-		<td style="text-align: justify; vertical-align: middle;">Building use</td> 
-        <td style="text-align: justify; vertical-align: middle;">- Mixed </br> - Residential </br> - Non_residential</td>
+		<td rowspan="2" style="text-align: justify; vertical-align: middle;">Building use</td> 
+        <td style="text-align: justify; vertical-align: middle;">- Mixed </br> - Residential </br> - Non_residential</td> </br>
         <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </br> -  Padang </td>
 	</tr>
 	<tr>
+        <td style="text-align: justify; vertical-align: middle;">- Residential </br> - Mixed </br> - Commercial </br> - Critical infrastructure </td>
+        <td style="text-align: justify; vertical-align: middle;"> - Padang </br> - Dominica </td>
+	</tr>
+	<tr>
 		<td style="text-align: justify; vertical-align: middle;">Building completeness</td> 
-        <td style="text-align: justify; vertical-align: middle;">- Complete </br> - Incomplete </br></td>
-        <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </br> -  Padang </td>
+        <td style="text-align: justify; vertical-align: middle;">- complete </br> - incomplete </br></td>
+        <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </br> - Padang </br> - Dominica </td>
 	</tr>
 	<tr>
 		<td style="text-align: justify; vertical-align: middle;">Building material</td> 
         <td style="text-align: justify; vertical-align: middle;">- brick_or_cement-concrete_block </br> - plaster </br> - wood_polished </br> - wood_crude_plank </br> - adobe </br> - corrugated_metal </br> - stone_with_mud_ashlar_with_lime_or_cement</br> - container_trailer </br> - plant_material </br> - mix_other_unclear </br> </td>
-        <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </br> -  Padang </td>
+        <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </br> - Padang </br> - Dominica </td>
 	</tr>
 	<tr>
 		<td style="text-align: justify; vertical-align: middle;">Building security</td> 
         <td style="text-align: justify; vertical-align: middle;">- Secured </br> - Unsecured </br></td>
-        <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </td>
+        <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </br> - Dominica </td>
 	</tr>
 	<tr>
 		<td style="text-align: justify; vertical-align: middle;">Building condition </td> 
         <td style="text-align: justify; vertical-align: middle;">- Poor </br> - Fair </br> - Good</td>
-        <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Padang </td>
+        <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Padang </br> - Dominica </td>
 	</tr>
 	<tr>
 		<td style="text-align: justify; vertical-align: middle;">Building vintage</td> 
         <td style="text-align: justify; vertical-align: middle;">- not_defined </br> - pre_1940 </br> - 1941_1974 </br> - 1975_1999 </br> - 2000_now </td>
         <td style="text-align: justify; vertical-align: middle;">- Lima </td>
+	</tr>
+		<tr>
+		<td style="text-align: justify; vertical-align: middle;">Building type</td> 
+        <td style="text-align: justify; vertical-align: middle;">- confined_masonry-concrete_frame </br> - unreinforced_masonry </br> - timber_wooden_frame </br> - other </td>
+        <td style="text-align: justify; vertical-align: middle;">- Padang </td>
 	</tr>
 </table>
 
@@ -77,19 +88,15 @@ The tables below provide a breakdown of building property classes, building part
 ### Labeling adjustments by city
 
 
-- For LIMA, it is the unique city where there was annotated the vintage building property
-- For PADANG, we annotated only building properties: 
-    - Building completeness, 
-    - Building material, 
-    - Building use, 
-    - Building condition, 
-    - And we added additional property called Building type.
-    In addition, the Building use property had additional items or the new classification was:
-    - Residential: the buildings in construction should considerate by default as residential.
-    - Mixed: shop on the bottom, residential on top.
-    - Commercial: hotels, markets, marketplace, shops, and buildings (that it has ads that indicate it is commercial) attached to the gas station.
-    - Critical infrastructure: education, government and public services, health care, religious, utilities and also consider the banks as this category.
-- For ARMENIA, we ran inference using the existing models for both building parts and building properties that were trained with imagery from Peru and Colombia.
+1. For LIMA, it is the unique city where there was annotated the vintage building property
+2. For PADANG, there were some adjusments on the clases:
+    - We annotated only building properties: Building completeness, building material, building use, building condition.
+    - We added an additional property called Building type.
+    - (*) In addition, the Building use property had additional items or the new classification was: Residential, mixed, commercial and critical infrastructure.
+3. For ARMENIA, we ran inference using the existing models for both building parts and building properties that were trained with imagery from Peru and Colombia.
+4. For DOMINICA, we annotated the same building properties as we did for PADANG having two exeptions:
+	- We have not considered the building type class. 
+	- In the building material class, we have not considered the plant_material class since it was not relevant for this city.
 
 ## Rooftops labeling
 

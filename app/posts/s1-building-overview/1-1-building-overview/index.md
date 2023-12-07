@@ -1,5 +1,5 @@
 ---
-title: Labeling notes
+title: Labeling guide
 date: 2012-09-28
 layout: post.html
 ---
@@ -11,6 +11,18 @@ When drawing a bounding box (bbox) around buildings:
 - Only draw the bbox around the front face (or façade) of the building. (This is helps when linking the streetview properties to the building footprint map). Include the roof eave only if the material of construction is concrete, on other cases not include the roof eave in the bbox.
 - After drawing the bbox, check *all* building properties.
 - If you start labeling buildings in an image, be sure to complete labeling the other buildings in the image.
+
+**Note:**
+
+The bounding box covers only the building facade since it contains all the information needed to label the building features, which is why the ML team decided to focus on labeling and detecting the building facade.
+
+For this reason, the annotation team looks for buildings that meet the following criteria:
+1. Prominent buildings that occupy 60-70% of the imagery and have their facade visible.
+2. Buildings that are at an angle of approximately 75 to 105 degrees (perpendicular) to the camera's capture angle.
+
+This approach is helpful when matching building properties to building polygons in the post-processing step.
+
+![cvat_building_labeling](/housing-passports-labeling/assets/graphics/content_blogs/cvat_building_labeling.mp4)
 
 ## Repetitive or difficult labels
 
@@ -48,6 +60,22 @@ When the car drove around corners, the images will stop showing one face of a bu
 When in the images the building base is not seen, only skip labeling the buildings. Example: There are barrier, wall or other objects in front of the building that covers the building base and you can't know where start to draw the bbox.
 
 ![image](/housing-passports-labeling/assets/graphics/content_blogs/building_base_is_not_seen.jpg)
+
+**Exceptional case:**
+
+1. For DOMINICA City: Given that the majority of street view images collected in Dominica lack visibility of the base of buildings, a decision was made to incorporate into the annotation process those buildings whose bases are not directly observable. In such cases, annotations were made by estimating the bases through a careful examination of surrounding buildings or, when necessary, by relying on the annotator's best judgment to determine the likely location of the building bases.
+
+<div class="gallery">
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/content_blogs/label_building_base_is_not_seen_1.jpg">
+        <figcaption> Example 1.</figcaption>
+    </figure>
+    <figure >
+        <img src="/housing-passports-labeling/assets/graphics/content_blogs/label_building_base_is_not_seen_2.jpg">
+        <figcaption> Example 2.</figcaption>
+    </figure>
+</div>
+
 
 ### 4. Images object block line of sight to a building
 
