@@ -92,7 +92,7 @@ The tables below provide a breakdown of building property classes, building part
 2. For PADANG, there were some adjusments on the clases:
     - We annotated only building properties: Building completeness, building material, building use, building condition.
     - We added an additional property called Building type.
-    - (*) In addition, the Building use property had additional items or the new classification was: Residential, mixed, commercial and critical infrastructure.
+    - In the Building use property the new classification was: Residential, mixed, commercial and critical infrastructure.
 3. For ARMENIA, we ran inference using the existing models for both building parts and building properties that were trained with imagery from Peru and Colombia.
 4. For DOMINICA, we annotated the same building properties as we did for PADANG having two exeptions:
 	- We have not considered the building type class. 

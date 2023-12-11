@@ -22,7 +22,7 @@ For this reason, the annotation team looks for buildings that meet the following
 
 This approach is helpful when matching building properties to building polygons in the post-processing step.
 
-![cvat_building_labeling](/housing-passports-labeling/assets/graphics/content_blogs/cvat_building_labeling.gif)
+![cvat_building_labeling](/housing-passports-labeling/assets/graphics/content_blogs/cvat-building-labeling.gif)
 
 ## Repetitive or difficult labels
 
@@ -41,11 +41,11 @@ Here is an example where the buildings are too far away across a double highway:
 <div class="gallery">
     <figure >
         <img src="/housing-passports-labeling/assets/graphics/content_blogs/far_away_1.jpg">
-        <figcaption> Example 1.</figcaption>
+        <figcaption> Example 1</figcaption>
     </figure>
     <figure >
         <img src="/housing-passports-labeling/assets/graphics/content_blogs/far_away_2.jpg">
-        <figcaption> Example 2.</figcaption>
+        <figcaption> Example 2</figcaption>
     </figure>
 </div>
 
@@ -68,11 +68,11 @@ When in the images the building base is not seen, only skip labeling the buildin
 <div class="gallery">
     <figure >
         <img src="/housing-passports-labeling/assets/graphics/content_blogs/label_building_base_is_not_seen_1.jpg">
-        <figcaption> Example 1.</figcaption>
+        <figcaption> Example 1</figcaption>
     </figure>
     <figure >
         <img src="/housing-passports-labeling/assets/graphics/content_blogs/label_building_base_is_not_seen_2.jpg">
-        <figcaption> Example 2.</figcaption>
+        <figcaption> Example 2</figcaption>
     </figure>
 </div>
 
@@ -118,11 +118,11 @@ When the fence or other objects does not cover all the building or building part
 <div class="gallery">
     <figure >
         <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_neiva_01.jpg"></a>
-        <figcaption> Example 1, Protection barrier.</figcaption>
+        <figcaption> Example 1, protection barrier</figcaption>
     </figure>
     <figure >
         <a class="modal-btn"><img src="/housing-passports-labeling/assets/graphics/images/building_security/secure_cartagena_neiva_02.jpg"></a>
-        <figcaption> Example 2, Protection barrier.</figcaption>
+        <figcaption> Example 2, protection barrier</figcaption>
     </figure>
 </div>
 
