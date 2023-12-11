@@ -10,7 +10,7 @@ Thus far, we have worked with a total of 7 classes. However, the selection of cl
 
 The tables below provide a breakdown of building property and parts classes, along with the cities where the labeling has been done.
 
-Additionally, there is a piece of information about the classes for rooftop labeling.
+Additionally, there is a piece of information about the classes for rooftop mapping.
 
 ## Building properties
 
@@ -100,10 +100,10 @@ Additionally, there is a piece of information about the classes for rooftop labe
 	- We have not considered the building type class. 
 	- In the building material class, we have not considered the plant_material class since it was not relevant for this city.
 
-## Rooftops labeling
+## Rooftops mapping
 
-The rooftops labeling was done in Independencia District in Lima as a continuation of the Housing Passports work. 
-The labeling was done using the Java OpenStreetMap tool and the properties considered on labeling were:
+The rooftops mapping was done in Independencia District in Lima as a continuation of the Housing Passports work. 
+The mapping was done using the Java OpenStreetMap tool and the properties considered on mapping were:
 
 <table border cellpadding="5px">
 	<tr>
