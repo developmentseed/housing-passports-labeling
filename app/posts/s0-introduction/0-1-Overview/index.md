@@ -23,7 +23,7 @@ Additionally, there is a piece of information about the classes for rooftop mapp
 	<tr>
 		<td rowspan="2" style="text-align: justify; vertical-align: middle;">Building use</td> 
         <td style="text-align: justify; vertical-align: middle;">- Mixed </br> - Residential </br> - Non residential</td> </br>
-        <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </br> -  Padang </td>
+        <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </td>
 	</tr>
 	<tr>
         <td style="text-align: justify; vertical-align: middle;">- Residential </br> - Mixed </br> - Commercial </br> - Critical infrastructure </td>
