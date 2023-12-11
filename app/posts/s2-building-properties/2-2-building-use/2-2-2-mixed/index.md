@@ -62,6 +62,16 @@ cities:
         - image_path: /assets/graphics/images/building_use/mixed_padang_03.jpg
           title: 'Mixed: 1st floor on the one part as comercial and the other part as residential, 2nd floor residential.'
         - image_path: /assets/graphics/images/building_use/mixed_padang_04.jpg
-          title: 'Mixed: 1st floor comercial and 2nd floor to live.'            
+          title: 'Mixed: 1st floor comercial and 2nd floor to live.'          
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_use/mixed_dominica_01.jpg
+          title: 'Mixed: 1st floor comercial and 2nd floor to live.'
+        - image_path: /assets/graphics/images/building_use/mixed_dominica_02.jpg
+          title: 'Mixed: 1st floor comercial and 2nd floor to live.'
+        - image_path: /assets/graphics/images/building_use/mixed_dominica_03.jpg
+          title: 'Mixed: 1st floor comercial and 2nd floor to live.'
+        - image_path: /assets/graphics/images/building_use/mixed_dominica_04.jpg
+          title: 'Mixed: 1st floor comercial and 2nd floor to live.'                       
 ---
 When the building is used for commercial and residential purposes. A common case is a building with a mini-market on the first floor and residential housing above.

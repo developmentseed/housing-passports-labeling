@@ -41,6 +41,16 @@ cities:
           title: 'Wood - crude/plank.'          
         - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_padang_04.jpg  
           title: 'Wood - crude/plank.'     
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_dominica_01.jpg   
+          title: 'Wood - crude/plank.'          
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_dominica_02.jpg 
+          title: 'Wood - crude/plank.'          
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_dominica_03.jpg 
+          title: 'Wood - crude/plank.'          
+        - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_dominica_04.jpg  
+          title: 'Wood - crude/plank.'           
     - name: Other 
       images:
         - image_path: /assets/graphics/images/building_material/wood_crude-plank/wood_crude_plank_01.jpg   

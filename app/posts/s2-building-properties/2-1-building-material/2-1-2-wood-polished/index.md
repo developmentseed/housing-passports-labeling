@@ -14,7 +14,17 @@ cities:
         - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_padang_01.jpg
           title: 'Wood - polished.'           
         - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_padang_02.jpg
-          title: 'Wood - polished.'                     
+          title: 'Wood - polished.'      
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_dominica_01.jpg
+          title: 'Wood - polished.'           
+        - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_dominica_02.jpg
+          title: 'Wood - polished.'    
+        - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_dominica_03.jpg
+          title: 'Wood - polished.'           
+        - image_path: /assets/graphics/images/building_material/wood-polished/wood_polished_dominica_04.jpg
+          title: 'Wood - polished.'                                     
 ---
 
 Building constructed with wood that looks finished and/or polished, and the distinguishing factor will be, does this wood structure look expensive? It is so it is probably polished/finished. On the other hand, bear in mind that if the woods are painted, choose the material over the painted.

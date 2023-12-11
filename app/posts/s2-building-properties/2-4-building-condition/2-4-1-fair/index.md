@@ -63,6 +63,16 @@ cities:
           title: 'Fair.'           
         - image_path: /assets/graphics/images/building_condition/fair_padang_04.jpg  
           title: 'Fair.'                 
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_condition/fair_dominica_01.jpg
+          title: 'Fair.'           
+        - image_path: /assets/graphics/images/building_condition/fair_dominica_02.jpg
+          title: 'Fair.'           
+        - image_path: /assets/graphics/images/building_condition/fair_dominica_03.jpg
+          title: 'Fair.'           
+        - image_path: /assets/graphics/images/building_condition/fair_dominica_04.jpg  
+          title: 'Fair.'
 ---
 
 Buildings in 'fair' condition are somewhere between good and poor. Building exteriors might be dirty or poorly painted.

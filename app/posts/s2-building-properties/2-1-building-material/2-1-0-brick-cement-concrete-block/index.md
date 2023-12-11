@@ -58,6 +58,16 @@ cities:
         - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_padang_03.jpg
           title: 'Brick.'
         - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_padang_04.jpg
-          title: 'Brick, the building is painted but you can recognize the material, choose the material over the painted.'          
+          title: 'Brick, the building is painted but you can recognize the material, choose the material over the painted.'       
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_dominica_01.jpg
+          title: 'Brick.'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/concrete_dominica_02.jpg
+          title: 'Concrete.'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/concrete_dominica_03.jpg
+          title: 'Concrete.'
+        - image_path: /assets/graphics/images/building_material/brick_or_cement-concrete_block/brick_dominica_04.jpg
+          title: 'Brick.'                
 ---
 Buildings constructed with a brick material or cement/concrete block.

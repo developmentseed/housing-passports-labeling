@@ -53,6 +53,16 @@ cities:
           title: 'Protection barrier.'
         - image_path: /assets/graphics/images/building_security/secured_st_maarten_04.jpg
           title: 'Protection barrier.'
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_security/secured_dominica_01.jpg
+          title: 'Protection barrier.'
+        - image_path: /assets/graphics/images/building_security/secured_dominica_02.jpg
+          title: 'Protection barrier.'
+        - image_path: /assets/graphics/images/building_security/secured_dominica_03.jpg
+          title: 'Protection barrier.'
+        - image_path: /assets/graphics/images/building_security/secured_dominica_04.jpg
+          title: 'Protection barrier.'          
 ---
 
 Secured buildings have a protective barrier/cage around them or a protective barrier over the building/wall to keep others out. The barrier could be of different material, for example, wood, metal, large wall, fence of barbwire, corrugated metal wall.

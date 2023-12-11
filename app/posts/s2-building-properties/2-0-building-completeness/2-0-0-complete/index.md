@@ -38,7 +38,17 @@ cities:
         - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_03.jpg
           title: 'Complete.'        
         - image_path: /assets/graphics/images/building_completeness/complete_St_Maarten_04.jpg
-          title: 'Complete.'             
+          title: 'Complete.' 
+    - name: Dominica
+      images:
+        - image_path: /assets/graphics/images/building_completeness/complete_dominica_01.jpg
+          title: 'Complete.'        
+        - image_path: /assets/graphics/images/building_completeness/complete_dominica_02.jpg
+          title: 'Buildings constructed on columns are considered complete.'        
+        - image_path: /assets/graphics/images/building_completeness/complete_dominica_03.jpg
+          title: 'Buildings where one side on the first floor is complete and the other part are columns is considered complete.'        
+        - image_path: /assets/graphics/images/building_completeness/complete_dominica_04.jpg
+          title: 'Complete.'                
 ---
 
 Complete construction means the owners finished with changes to the building structure. They do not want to incrementally add floors or other major structures on the existing building. Complete buildings will usually have a structure that can't be modified easily, a fixed or static roof, and no unfinished windows.
