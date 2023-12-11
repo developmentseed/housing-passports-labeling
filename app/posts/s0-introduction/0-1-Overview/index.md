@@ -8,7 +8,9 @@ This page provides a summary of the labeled classes and the cities involved in t
 
 Thus far, we have worked with a total of 7 classes. However, the selection of classes for annotation has been contingent upon the unique characteristics of each city in which our work has been conducted.
 
-The tables below provide a breakdown of building property classes, building parts classes, and classes for rooftops labeling, along with the cities where have been done the labeling.
+The tables below provide a breakdown of building property and parts classes, along with the cities where the labeling has been done.
+
+Additionally, there is a piece of information about the classes for rooftop labeling.
 
 ## Building properties
 
@@ -20,7 +22,7 @@ The tables below provide a breakdown of building property classes, building part
 	</tr>
 	<tr>
 		<td rowspan="2" style="text-align: justify; vertical-align: middle;">Building use</td> 
-        <td style="text-align: justify; vertical-align: middle;">- Mixed </br> - Residential </br> - Non_residential</td> </br>
+        <td style="text-align: justify; vertical-align: middle;">- Mixed </br> - Residential </br> - Non residential</td> </br>
         <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </br> -  Padang </td>
 	</tr>
 	<tr>
@@ -29,12 +31,12 @@ The tables below provide a breakdown of building property classes, building part
 	</tr>
 	<tr>
 		<td style="text-align: justify; vertical-align: middle;">Building completeness</td> 
-        <td style="text-align: justify; vertical-align: middle;">- complete </br> - incomplete </br></td>
+        <td style="text-align: justify; vertical-align: middle;">- Complete </br> - Incomplete </br></td>
         <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </br> - Padang </br> - Dominica </td>
 	</tr>
 	<tr>
 		<td style="text-align: justify; vertical-align: middle;">Building material</td> 
-        <td style="text-align: justify; vertical-align: middle;">- brick_or_cement-concrete_block </br> - plaster </br> - wood_polished </br> - wood_crude_plank </br> - adobe </br> - corrugated_metal </br> - stone_with_mud_ashlar_with_lime_or_cement</br> - container_trailer </br> - plant_material </br> - mix_other_unclear </br> </td>
+        <td style="text-align: justify; vertical-align: middle;">- Brick or cement concrete block </br> - Plaster </br> - Wood polished </br> - Wood crude plank </br> - Adobe </br> - Corrugated metal </br> - Stone with mud ashlar with lime or cement</br> - Container trailer </br> - Plant material </br> - Mix other unclear </br> </td>
         <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </br> - Padang </br> - Dominica </td>
 	</tr>
 	<tr>
@@ -49,12 +51,12 @@ The tables below provide a breakdown of building property classes, building part
 	</tr>
 	<tr>
 		<td style="text-align: justify; vertical-align: middle;">Building vintage</td> 
-        <td style="text-align: justify; vertical-align: middle;">- not_defined </br> - pre_1940 </br> - 1941_1974 </br> - 1975_1999 </br> - 2000_now </td>
+        <td style="text-align: justify; vertical-align: middle;">- Not defined </br> - pre 1940 </br> - 1941 - 1974 </br> - 1975 - 1999 </br> - 2000 - now </td>
         <td style="text-align: justify; vertical-align: middle;">- Lima </td>
 	</tr>
 		<tr>
 		<td style="text-align: justify; vertical-align: middle;">Building type</td> 
-        <td style="text-align: justify; vertical-align: middle;">- confined_masonry-concrete_frame </br> - unreinforced_masonry </br> - timber_wooden_frame </br> - other </td>
+        <td style="text-align: justify; vertical-align: middle;">- Confined masonry concrete frame </br> - Unreinforced masonry </br> - Timber wooden frame </br> - Other </td>
         <td style="text-align: justify; vertical-align: middle;">- Padang </td>
 	</tr>
 </table>
@@ -67,19 +69,19 @@ The tables below provide a breakdown of building property classes, building part
         <th style="width: 50%;">City</th>
 	</tr>
 	<tr>
-		<td style="text-align: justify; vertical-align: middle;">Garage labels</td> 
+		<td style="text-align: justify; vertical-align: middle;">Garage </td> 
         <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </td>
 	</tr>
 	<tr>
-		<td style="text-align: justify; vertical-align: middle;">Window labels</td> 
+		<td style="text-align: justify; vertical-align: middle;">Window </td> 
         <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </td>
 	</tr>
     	<tr>
-		<td style="text-align: justify; vertical-align: middle;">Door labels</td> 
+		<td style="text-align: justify; vertical-align: middle;">Door </td> 
         <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </td>
 	</tr>
 	<tr>
-		<td style="text-align: justify; vertical-align: middle;">Disaster_mitigation labels</td> 
+		<td style="text-align: justify; vertical-align: middle;">Disaster mitigation </td> 
         <td style="text-align: justify; vertical-align: middle;">- Lima </br> - Cartagena </br> - Neiva </br> - St. Maarten </br> - Juchitan </br> - Salina Cruz </br> - Paraguay </td>
 	</tr>
 
